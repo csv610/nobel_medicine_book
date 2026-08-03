@@ -17,6 +17,8 @@
 \usepackage{parskip}
 \usepackage{amsmath}
 \usepackage{microtype}
+\usepackage{makeidx}
+\makeindex
 \hbadness=10000
 \vbadness=10000
 \hfuzz=3pt
@@ -36,6 +38,10 @@
 \maketitle
 \tableofcontents
 \newpage
+
+\chapter*{Index}
+\addcontentsline{toc}{chapter}{Index}
+\printindex
 
 \chapter*{Overview}
 \addcontentsline{toc}{chapter}{Overview}
