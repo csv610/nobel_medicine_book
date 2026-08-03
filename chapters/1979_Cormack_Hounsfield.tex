@@ -1,0 +1,79 @@
+\chapter[1979 --- Cormack et al.]{1979: Allan M. Cormack, Godfrey N. Hounsfield}
+\label{ch:1979_Cormack}
+
+\section*{Main Contribution}
+
+\textit{Developed computer-assisted tomography (CT scanning), enabling non-invasive visualization of internal body structures---revolutionizing medical diagnosis.}
+
+\section{Official Citation}
+
+for the development of computer-assisted tomography
+
+The 1979 Nobel Prize in Physiology or Medicine was awarded jointly to Allan M. Cormack and Godfrey N. Hounsfield for the development of computer-assisted tomography (CAT, or CT). Their invention revolutionized diagnostic medicine by providing the first non-invasive method to visualize the internal structures of the body in cross-sectional detail. CT scanning transformed the practice of radiology and became one of the most widely used and clinically important diagnostic tools in the history of medicine.
+
+\section{Background and Historical Context}
+
+The ability to see inside the human body without surgery has been a dream of physicians for centuries. Wilhelm R\"ontgen's discovery of X-rays in 1895 made this dream a reality, and within months of R\"ontgen's announcement, X-rays were being used to diagnose fractures, locate foreign objects, and visualize the skeletal system. However, conventional X-ray imaging has significant limitations. X-ray images are two-dimensional projections of three-dimensional structures, and they provide limited contrast between soft tissues of similar density. Dense structures such as bone absorb X-rays strongly and appear white on the film, while soft tissues absorb X-rays weakly and appear as overlapping gray shadows. This makes it difficult to distinguish between different soft tissues---such as the liver, spleen, and kidneys---using conventional X-rays.
+
+Throughout the first half of the twentieth century, physicians developed various techniques to improve the contrast and resolution of X-ray images. These included the use of contrast agents (such as barium sulfate for imaging the gastrointestinal tract and iodinated dyes for imaging blood vessels) and the development of fluoroscopy (real-time X-ray imaging). However, the fundamental limitation of two-dimensional projection imaging remained, and there was a clear need for a method that could produce cross-sectional images of the body---images that showed a single ``slice'' of the body without the superimposition of structures above and below the slice.
+
+The concept of tomographic imaging---from the Greek \emph{tomos}, meaning ``slice''---had been proposed as early as 1917 by the Irish mathematician J. Radon, who proved that a three-dimensional object could be reconstructed from its two-dimensional projections taken at multiple angles. This mathematical theorem, known as the Radon transform, provided the theoretical foundation for CT scanning, but it would take more than half a century for the theorem to be translated into a practical imaging technique.
+
+\section{The Discovery/Contribution}
+
+\subsection{Allan M. Cormack and the Mathematics of CT Reconstruction}
+
+Allan MacLeod Cormack was born in Johannesburg, South Africa, in 1924, and trained as a physicist at the University of Cape Town. He emigrated to the United States in 1956 and joined the physics department at Tufts University in Medford, Massachusetts. Cormack's interest in CT scanning was sparked by a clinical problem: while working as a medical physicist at Groote Schuur Hospital in Cape Town in the early 1950s, he was asked to calculate radiation dose distributions for patients receiving radiotherapy for cancer. This task required him to determine the distribution of X-ray absorption within the body, and he soon realized that the information contained in X-ray images could, in principle, be used to reconstruct the internal structure of the body in three dimensions.
+
+Between 1957 and 1963, Cormack developed the mathematical theory for reconstructing cross-sectional images from X-ray projections. He showed that if X-ray transmission measurements were made through an object from many different angles, it was possible to reconstruct a cross-sectional map of the X-ray absorption coefficients within the object. Cormack published his theoretical results in two papers---one in the \emph{Journal of Applied Physics} in 1963 and one in the \emph{Journal of Mathematical Physics} in 1964---but these papers attracted little attention at the time, because the computational power needed to perform the reconstruction was not yet available.
+
+Cormack's mathematical approach was based on the Radon transform and its inverse. He showed that the X-ray transmission data could be described as a set of line integrals through the object, and that the cross-sectional distribution of absorption coefficients could be recovered by applying the inverse Radon transform. In practical terms, this meant that a computer could be used to calculate the internal structure of the object from the X-ray transmission measurements, provided that enough measurements were made from enough different angles.
+
+\subsection{Godfrey N. Hounsfield and the Invention of the CT Scanner}
+
+Godfrey Newbold Hounsfield was born in Sutton-on-Trent, Nottinghamshire, England, in 1919. He trained as a radio engineer at Faraday Crossing College and joined the Electrical and Musical Industries (EMI) company in 1951. At EMI, Hounsfield worked on a variety of projects, including the development of radar systems, transistor computers, and electronic musical instruments (EMI was primarily a music company, famous for recording The Beatles).
+
+In 1967, Hounsfield began working on the problem of reconstructing cross-sectional images from X-ray projections, independently of Cormack's theoretical work. Hounsfield's approach was more practical and engineering-oriented than Cormack's mathematical approach. He designed and built a prototype CT scanner using a collimated X-ray beam, a sodium iodide scintillation detector, and a small computer (initially an EMI computer borrowed from another project). Hounsfield's prototype scanned a human brain specimen in approximately nine hours and produced a two-dimensional image with sufficient resolution to distinguish between different brain structures.
+
+Hounsfield's first prototype CT scanner was installed at Atkinson Morley Hospital in London in 1971, and the first clinical scan was performed on October 1, 1971, on a patient with a suspected brain tumor. The scan clearly showed a cystic lesion in the brain---a finding that was confirmed at surgery. The result was dramatic: for the first time, it was possible to visualize a brain tumor non-invasively, without the need for dangerous and painful procedures such as pneumoencephalography (in which air was injected into the spinal canal to outline the brain).
+
+Hounsfield published his clinical results in 1973, and the response from the medical community was overwhelming. Within a few years, CT scanners were being installed in hospitals around the world, and the technique was being applied to imaging of the abdomen, chest, and other parts of the body. The development of third-generation CT scanners (which used a rotating X-ray tube and detector array) and fourth-generation scanners (which used a stationary detector ring) dramatically improved scanning speed and image quality, reducing scan times from hours to minutes and, eventually, to seconds.
+
+\subsection{The Mathematics of Image Reconstruction}
+
+The mathematical foundation of CT reconstruction is based on the relationship between the X-ray transmission data and the internal structure of the object being scanned. When an X-ray beam passes through the body, it is attenuated (absorbed and scattered) by the tissues it encounters. The amount of attenuation depends on the thickness, density, and composition of the tissues. By measuring the attenuation of X-ray beams passing through the body from many different angles, it is possible to reconstruct a cross-sectional map of the attenuation coefficients within the body.
+
+The reconstruction problem is mathematically equivalent to solving a set of linear equations. In the discrete case, the attenuation measurements can be expressed as a matrix equation, $Ax = b$, where $A$ is a matrix describing the geometry of the X-ray beams, $x$ is the vector of unknown attenuation coefficients, and $b$ is the vector of measured attenuation values. Solving this equation for $x$ yields the cross-sectional image.
+
+In practice, the reconstruction is performed using one of several algorithms, including filtered back projection and iterative reconstruction. Filtered back projection is the most widely used method; it involves applying a mathematical filter to the projection data and then ``back projecting'' the filtered data to reconstruct the image. The filter compensates for the blurring that would result from simple back projection, producing a sharp, high-resolution image.
+
+Hounsfield also introduced the Hounsfield unit (HU), a standardized scale for measuring X-ray attenuation. On this scale, water is defined as 0 HU, air as $-1000$ HU, and dense bone as $+1000$ HU or higher. The Hounsfield unit scale is still used in clinical CT scanning today and provides a convenient way to characterize and display different tissue types.
+
+\section{Impact on Modern Medicine}
+
+The impact of CT scanning on modern medicine has been nothing short of significant. CT scanning has become one of the most widely used and clinically important diagnostic tools in the world, with an estimated 80 million CT scans performed annually in the United States alone. The technique has transformed the diagnosis and management of virtually every type of disease, from cancer to trauma to cardiovascular disease.
+
+In neurology and neurosurgery, CT scanning has largely replaced the dangerous and painful procedures (such as pneumoencephalography and cerebral angiography) that were previously used to diagnose brain tumors, strokes, and other intracranial diseases. CT scanning is now the first-line imaging modality for the evaluation of patients with head trauma, stroke, and suspected intracranial hemorrhage, and it has dramatically improved the speed and accuracy of diagnosis in these settings.
+
+In oncology, CT scanning is essential for the detection, staging, and monitoring of cancer. CT scans can detect tumors as small as a few millimeters in diameter, and they can provide detailed information about the size, location, and extent of tumors. CT scanning is also used to guide biopsies and other interventional procedures, and to monitor the response of tumors to chemotherapy and radiation therapy.
+
+In emergency medicine, CT scanning has become an indispensable tool for the rapid evaluation of trauma patients. Whole-body CT scanning (also known as ``trauma CT'') can detect internal injuries---such as organ lacerations, internal bleeding, and fractures---within minutes, enabling rapid and appropriate treatment. Studies have shown that the availability of CT scanning in emergency departments significantly reduces the mortality of trauma patients.
+
+In cardiology, CT scanning is used to visualize the coronary arteries and to detect coronary artery disease. CT coronary angiography (CTCA) is a non-invasive alternative to conventional cardiac catheterization, and it has become an increasingly important tool for the diagnosis and management of patients with chest pain and suspected heart disease.
+
+The development of CT scanning also had a broader impact on the field of medical imaging. The mathematical principles of image reconstruction that were developed for CT scanning---particularly the Radon transform and its inverse---are also used in other imaging modalities, including positron emission tomography (PET), single-photon emission computed tomography (SPECT), and magnetic resonance imaging (MRI). In this sense, the invention of CT scanning not only revolutionized X-ray imaging but also laid the mathematical foundation for the entire field of tomographic imaging.
+
+Modern CT technology has advanced far beyond the original prototypes developed by Hounsfield. Multidetector CT (MDCT) scanners can acquire up to 320 slices of data in a single rotation, enabling the imaging of the entire heart in a single heartbeat and the reconstruction of high-resolution three-dimensional images of any part of the body. Dual-energy CT scanning uses two different X-ray energies to differentiate between tissues based on their chemical composition, enabling the visualization of gout crystals, the characterization of kidney stones, and the detection of pulmonary emboli with notable accuracy. CT perfusion imaging can map blood flow to the brain and other organs, enabling the early detection and treatment of stroke and other ischemic diseases.
+
+\section{Legacy}
+
+Allan Cormack continued his work at Tufts University, where he remained a professor of physics until his retirement. He continued to develop the mathematical theory of image reconstruction and was an influential advocate for the application of physics to medicine. Cormack died in 1998, but his mathematical contributions continue to underpin the practice of CT scanning and other forms of tomographic imaging.
+
+Godfrey Hounsfield was awarded the Nobel Prize in 1979 and received a share of the prize money of 685,000 Swedish kronor. He continued to work at EMI and later at Siemens, developing new generations of CT scanners and other imaging devices. Hounsfield was knighted by Queen Elizabeth II in 1976 and received numerous other honors during his lifetime. He died in 2004, but his invention continues to save millions of lives every year.
+
+The development of CT scanning by Cormack and Hounsfield is a remarkable example of how a theoretical insight---the Radon transform---combined with practical engineering---Hounsfield's prototype scanner---can produce a transformative medical technology. The CT scanner has become so ubiquitous in modern medicine that it is easy to forget how significant it was when it was first introduced. Before CT scanning, physicians had to rely on indirect and often unreliable methods to visualize the inside of the body; today, CT scanning provides a clear, detailed, and non-invasive window into the body's interior, enabling diagnosis and treatment of diseases that would have been invisible to earlier generations of physicians. The legacy of Cormack and Hounsfield is a legacy of clearer vision, more accurate diagnosis, and better patient care.
+
+
+\section{Modern Developments}
+
+Cormack and Hounsfield's CT scanning has evolved into modern medical imaging. CT scanners now use AI for image reconstruction, reducing radiation dose. Dual-energy CT differentiates tissue types. CT angiography diagnoses coronary artery disease non-invasively. PET-CT combines metabolic and anatomical imaging for cancer staging. The COVID-19 pandemic highlighted CT's role in diagnosing and monitoring lung disease.

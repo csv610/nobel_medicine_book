@@ -1,0 +1,9 @@
+# Build artifacts
+*.aux
+*.log
+*.toc
+*.out
+*.pdf
+
+# OS
+.DS_Store
