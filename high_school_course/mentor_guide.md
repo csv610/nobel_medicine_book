@@ -1,6 +1,19 @@
 # Mentor Guide: Helping Students Find Their Question
 
-The mentor's job is to open doors, not to assign one narrow path. Begin by showing students that “medicine” includes many connected subfields: the body, cells, genes, behavior, tools, treatments, populations, and ethics. Then invite each student to choose a laureate chapter whose opening question catches their imagination.
+The mentor's job is to open doors, not to assign one narrow path. Begin by showing students that “medicine” includes many connected subfields: the body, cells, genes, behavior, tools, treatments, populations, and ethics. Then invite each student to choose a scientist chapter whose opening question catches their imagination.
+
+## Teach science as cumulative and revisable
+
+Make this message explicit at the beginning of the course: science is incremental progress in human knowledge. Almost every result is built on earlier work, including work that was incomplete or partly wrong. A discovery is not a miracle performed by a superhuman mind; it is a contribution to a long chain of questions, measurements, arguments, corrections, and collaborations.
+
+Tell students plainly: **Grandpa was not always correct—and neither are we.** The point is not to disrespect Grandpa or earlier scientists. The point is that every claim must remain open to evidence. Students should practice saying:
+
+- “What is the assumption here?”
+- “How could we check that?”
+- “What would count against my hypothesis?”
+- “What evidence would make me revise my explanation?”
+
+Reward a thoughtful correction as much as a confident answer. Ask students to identify what an earlier investigator got right, what remained unknown, and how a later investigator improved the question or method.
 
 ## A welcoming first conversation
 
@@ -28,7 +41,7 @@ A laureate may fit more than one field. The course gives each chapter one primar
 ## How to introduce a chapter
 
 1. Read the bold “Why this matters” hook aloud.
-2. Ask students what they predict the laureate discovered.
+2. Ask students what they predict the scientist discovered.
 3. Read the Nobel-recognized contribution, then compare it with the prediction.
 4. Point out the chapter's mentor question before students read the source chapter.
 5. Let students choose whether to complete the project alone, with a partner, or as a small team.
@@ -47,7 +60,7 @@ This sequence protects creative risk-taking while still giving students the full
 
 Praise good questions, not just correct answers. When a student says “I don't understand,” ask which word, step, or assumption is blocking them. Connect unfamiliar science to something tangible: a signal, a map, a lock, a filter, a traffic network, a family trait, or a decision about risk.
 
-Avoid presenting Nobel winners as solitary geniuses. Highlight assistants, collaborators, patients, communities, instruments, criticism, and later researchers. This helps students see science as a human practice they can join.
+Avoid presenting scientists as solitary geniuses. Highlight assistants, collaborators, patients, communities, instruments, criticism, and later researchers. This helps students see science as a human practice they can join.
 
 ## A mentor's recurring questions
 
@@ -56,4 +69,7 @@ Avoid presenting Nobel winners as solitary geniuses. Highlight assistants, colla
 - What could the method not measure?
 - Who benefited, and who might bear risk?
 - What would change your mind?
+- Which earlier idea made this work possible?
+- What did the earlier investigators get wrong or leave unresolved?
+- How could a future student improve this investigation?
 - What safe model could we build to explore the idea?

@@ -3,20 +3,21 @@
 ## Project report structure
 
 1. Question and prediction
-2. Background connection to the Nobel discovery
+2. Background connection to the investigation
 3. Materials and method
 4. Data table and graph
 5. Result and uncertainty
 6. Explanation and alternative explanations
 7. Ethical and safety reflection
-8. One improved follow-up investigation
+8. One assumption to question and one improved follow-up investigation
 
-## Common rubric: 20 points
+## Common rubric: 24 points
 
 - **Scientific question and design (0–4):** testable question, sensible comparison, variables identified.
 - **Evidence and data (0–4):** accurate observations, units, organized table, appropriate graph.
 - **Reasoning (0–4):** conclusion matches evidence and separates correlation from causation.
-- **Connection to Nobel work (0–4):** accurately explains the historical contribution and its limits.
+- **Connection to scientific progress (0–4):** explains what earlier work made possible, what the investigation added, and what remained uncertain.
+- **Questioning and revision (0–4):** identifies an assumption, states what could falsify the hypothesis, and proposes a thoughtful revision.
 - **Communication and responsibility (0–4):** clear writing, honest uncertainty, safe and ethical practice.
 
 Students can submit a written report, poster, short presentation, or accessible audio/video explanation with equivalent evidence.
