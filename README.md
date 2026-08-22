@@ -12,6 +12,10 @@ This book covers all 116 Nobel Prizes in Physiology or Medicine awarded between 
 - **Years without prize:** 1915, 1916, 1917, 1918, 1921, 1925, 1940, 1941, 1942
 - **GitHub:** https://github.com/csv610/nobel_medicine_book
 
+## High-school course
+
+The repository also includes a classroom-ready [high-school course](high_school_course/README.md) based on the Nobel-winning work in this book. It contains 10 interdisciplinary chapters, foundational materials, safety and ethics guidance, an assessment rubric, and a safe, doable project for every chapter.
+
 ## Structure
 
 ```
@@ -22,6 +26,7 @@ chapters/                   — 116 chapter source files
     1902_Ross.tex
     ...
     2025_Brunkow_Ramsdell_Sakaguchi.tex
+high_school_course/        — high-school curriculum, foundations, and projects
 ```
 
 Each chapter covers a single award year and may include one, two, or three laureates. The master file includes an overview table and an index, then inputs all chapters in chronological order.
