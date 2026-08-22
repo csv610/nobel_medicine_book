@@ -4,15 +4,12 @@ A comprehensive LaTeX book documenting every Nobel laureate in Physiology or Med
 
 ## Overview
 
-This book covers 115 years of Nobel Prize awards (1901–2025) with prizes not awarded in 10 years due to World Wars and other circumstances. It documents 231 laureates across all disciplines of medical and physiological science.
+This book covers all 116 Nobel Prizes in Physiology or Medicine awarded between 1901 and 2025. It documents 232 laureates across medical and physiological science; prizes were not awarded in nine years because of World Wars and other circumstances.
 
-- **Chapters:** 115 (one per award year; chapters with multiple laureates group them together)
-- **Laureates documented:** 231 individuals
+- **Chapters:** 116 (one per awarded prize year; chapters with multiple laureates group them together)
+- **Laureates documented:** 232 individuals
 - **Years covered:** 1901–2025
-- **Years without prize:** 1915, 1916, 1917, 1918, 1922, 1925, 1929, 1940, 1941, 1942
-- **Pages:** 715
-- **PDF size:** 2.16 MB
-- **Index entries:** 122
+- **Years without prize:** 1915, 1916, 1917, 1918, 1921, 1925, 1940, 1941, 1942
 - **GitHub:** https://github.com/csv610/nobel_medicine_book
 
 ## Structure
@@ -20,7 +17,7 @@ This book covers 115 years of Nobel Prize awards (1901–2025) with prizes not a
 ```
 nobel_medicine.tex          — master document (book class, 12pt a4paper)
 README.md                   — this file
-chapters/                   — 115 chapter source files
+chapters/                   — 116 chapter source files
     1901_Behring.tex
     1902_Ross.tex
     ...
@@ -46,18 +43,15 @@ Every chapter follows the same pattern:
 The book includes:
 
 - A chronological overview table listing every year, laureate name(s), and key contribution
-- 115 individual chapters, each covering one Nobel award year
+- 116 individual chapters, each covering one Nobel Prize year
 - A back-of-book index (122 entries) for navigating by person, disease, and concept
-- Full Nobel citation text for every laureate
+- Nobel citation text for every award and laureate group
 
 ## Building
 
 ```bash
 pdflatex --jobname=nobel_medicine nobel_medicine.tex
-bibtex nobel_medicine          # if bibliography present
-pdflatex --jobname=nobel_medicine nobel_medicine.tex
-pdflatex --jobname=nobel_medicine nobel_medicine.tex
-makeidx nobel_medicine
+makeindex nobel_medicine
 pdflatex --jobname=nobel_medicine nobel_medicine.tex
 pdflatex --jobname=nobel_medicine nobel_medicine.tex
 ```
