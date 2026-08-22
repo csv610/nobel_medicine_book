@@ -1,8 +1,7 @@
-# John R. Vane: Nobel Medicine, 1982
+# Explore: John R. Vane
 
-**Nobel Prize year:** 1982
-**Laureate:** John R. Vane
-**Nobel-recognized contribution:** for their discoveries concerning prostaglandins and related biologically active substances
+**Scientist:** John R. Vane
+**Research focus:** for their discoveries concerning prostaglandins and related biologically active substances
 
 **Subfield:** Physiology, Metabolism, and Endocrinology
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1982 prize chapter](../../chapters/1982_Bergstrom_Samuelsson_Vane.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1982_Bergstrom_Samuelsson_Vane.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create an evidence map for the discovery: question, observation, method, result,
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1982/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

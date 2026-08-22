@@ -1,8 +1,7 @@
-# Edward B. Lewis: Nobel Medicine, 1995
+# Explore: Edward B. Lewis
 
-**Nobel Prize year:** 1995
-**Laureate:** Edward B. Lewis
-**Nobel-recognized contribution:** for their discoveries concerning the genetic control of early embryonic development
+**Scientist:** Edward B. Lewis
+**Research focus:** for their discoveries concerning the genetic control of early embryonic development
 
 **Subfield:** Genetics, Genomics, and Development
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1995 prize chapter](../../chapters/1995_Lewis_NussleinVolhard_Wieschaus.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1995_Lewis_NussleinVolhard_Wieschaus.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Build a paper or spreadsheet model of inheritance, gene regulation, or sequence 
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1995/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

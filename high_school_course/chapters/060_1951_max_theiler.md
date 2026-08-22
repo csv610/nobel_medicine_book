@@ -1,8 +1,7 @@
-# Max Theiler: Nobel Medicine, 1951
+# Explore: Max Theiler
 
-**Nobel Prize year:** 1951
-**Laureate:** Max Theiler
-**Nobel-recognized contribution:** for his discoveries concerning yellow fever and how to combat it
+**Scientist:** Max Theiler
+**Research focus:** for his discoveries concerning yellow fever and how to combat it
 
 **Subfield:** Infection, Immunity, and Vaccines
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1951 prize chapter](../../chapters/1951_Theiler.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1951_Theiler.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create an evidence map for the discovery: question, observation, method, result,
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1951/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

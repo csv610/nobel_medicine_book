@@ -1,8 +1,7 @@
-# Edmond H. Fischer: Nobel Medicine, 1992
+# Explore: Edmond H. Fischer
 
-**Nobel Prize year:** 1992
-**Laureate:** Edmond H. Fischer
-**Nobel-recognized contribution:** for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism
+**Scientist:** Edmond H. Fischer
+**Research focus:** for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism
 
 **Subfield:** Cell Biology and Molecular Systems
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1992 prize chapter](../../chapters/1992_Fischer_Krebs.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1992_Fischer_Krebs.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Construct a labeled paper model or digital diagram of the biological structure o
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1992/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

@@ -1,8 +1,7 @@
-# Frederick Banting: Nobel Medicine, 1923
+# Explore: Frederick Banting
 
-**Nobel Prize year:** 1923
-**Laureate:** Frederick Banting
-**Nobel-recognized contribution:** for their discovery of insulin
+**Scientist:** Frederick Banting
+**Research focus:** for their discovery of insulin
 
 **Subfield:** Physiology, Metabolism, and Endocrinology
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1923 prize chapter](../../chapters/1923_Banting_Macleod.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1923_Banting_Macleod.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create an evidence map for the discovery: question, observation, method, result,
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1923/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

@@ -1,8 +1,7 @@
-# Paul Hermann M"uller: Nobel Medicine, 1948
+# Explore: Paul Hermann M"uller
 
-**Nobel Prize year:** 1948
-**Laureate:** Paul Hermann M"uller
-**Nobel-recognized contribution:** for his discovery of the high efficiency of DDT as a contact poison against several arthropods
+**Scientist:** Paul Hermann M"uller
+**Research focus:** for his discovery of the high efficiency of DDT as a contact poison against several arthropods
 
 **Subfield:** Therapeutics, Surgery, and Public Health
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1948 prize chapter](../../chapters/1948_Muller.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1948_Muller.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create an evidence map for the discovery: question, observation, method, result,
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1948/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

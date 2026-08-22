@@ -1,8 +1,7 @@
-# Ivan Pavlov: Nobel Medicine, 1904
+# Explore: Ivan Pavlov
 
-**Nobel Prize year:** 1904
-**Laureate:** Ivan Pavlov
-**Nobel-recognized contribution:** in recognition of his work on the physiology of digestion
+**Scientist:** Ivan Pavlov
+**Research focus:** in recognition of his work on the physiology of digestion
 
 **Subfield:** Neuroscience, Senses, and Behavior
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1904 prize chapter](../../chapters/1904_Pavlov.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1904_Pavlov.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Design a safe signal-and-response investigation using a computer simulation, rul
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1904/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

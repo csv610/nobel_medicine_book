@@ -1,8 +1,7 @@
-# John Franklin Enders: Nobel Medicine, 1954
+# Explore: John Franklin Enders
 
-**Nobel Prize year:** 1954
-**Laureate:** John Franklin Enders
-**Nobel-recognized contribution:** for their discovery of the ability of poliomyelitis virus to grow in cultures of various types of tissue
+**Scientist:** John Franklin Enders
+**Research focus:** for their discovery of the ability of poliomyelitis virus to grow in cultures of various types of tissue
 
 **Subfield:** Infection, Immunity, and Vaccines
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1954 prize chapter](../../chapters/1954_Enders_Weller_Robbins.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1954_Enders_Weller_Robbins.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create a safe spreadsheet transmission or treatment-evidence model. Define a com
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1954/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

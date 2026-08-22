@@ -1,8 +1,7 @@
-# John Carew Eccles: Nobel Medicine, 1963
+# Explore: John Carew Eccles
 
-**Nobel Prize year:** 1963
-**Laureate:** John Carew Eccles
-**Nobel-recognized contribution:** for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane
+**Scientist:** John Carew Eccles
+**Research focus:** for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane
 
 **Subfield:** Neuroscience, Senses, and Behavior
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1963 prize chapter](../../chapters/1963_Eccles_Hodgkin_Huxley.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1963_Eccles_Hodgkin_Huxley.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Design a safe signal-and-response investigation using a computer simulation, rul
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1963/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

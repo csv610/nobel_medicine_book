@@ -1,8 +1,7 @@
-# Allan M. Cormack: Nobel Medicine, 1979
+# Explore: Allan M. Cormack
 
-**Nobel Prize year:** 1979
-**Laureate:** Allan M. Cormack
-**Nobel-recognized contribution:** for the development of computer-assisted tomography
+**Scientist:** Allan M. Cormack
+**Research focus:** for the development of computer-assisted tomography
 
 **Subfield:** Medical Technology and Research Methods
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1979 prize chapter](../../chapters/1979_Cormack_Hounsfield.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1979_Cormack_Hounsfield.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create an evidence map for the discovery: question, observation, method, result,
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1979/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

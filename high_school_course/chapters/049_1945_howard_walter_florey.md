@@ -1,8 +1,7 @@
-# Howard Walter Florey: Nobel Medicine, 1945
+# Explore: Howard Walter Florey
 
-**Nobel Prize year:** 1945
-**Laureate:** Howard Walter Florey
-**Nobel-recognized contribution:** for the discovery of penicillin and its curative effect in various infectious diseases
+**Scientist:** Howard Walter Florey
+**Research focus:** for the discovery of penicillin and its curative effect in various infectious diseases
 
 **Subfield:** Infection, Immunity, and Vaccines
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1945 prize chapter](../../chapters/1945_Fleming_Chain_Florey.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1945_Fleming_Chain_Florey.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create a safe spreadsheet transmission or treatment-evidence model. Define a com
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1945/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

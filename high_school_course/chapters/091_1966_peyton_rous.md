@@ -1,8 +1,7 @@
-# Peyton Rous: Nobel Medicine, 1966
+# Explore: Peyton Rous
 
-**Nobel Prize year:** 1966
-**Laureate:** Peyton Rous
-**Nobel-recognized contribution:** for his discovery of tumour-inducing viruses; and for his discoveries concerning hormonal treatment of prostatic cancer
+**Scientist:** Peyton Rous
+**Research focus:** for his discovery of tumour-inducing viruses; and for his discoveries concerning hormonal treatment of prostatic cancer
 
 **Subfield:** Infection, Immunity, and Vaccines
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1966 prize chapter](../../chapters/1966_Rous_Huggins.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1966_Rous_Huggins.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create a safe spreadsheet transmission or treatment-evidence model. Define a com
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1966/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

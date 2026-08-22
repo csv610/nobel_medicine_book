@@ -1,8 +1,7 @@
-# Robert Koch: Nobel Medicine, 1905
+# Explore: Robert Koch
 
-**Nobel Prize year:** 1905
-**Laureate:** Robert Koch
-**Nobel-recognized contribution:** for his investigations and discoveries in relation to tuberculosis
+**Scientist:** Robert Koch
+**Research focus:** for his investigations and discoveries in relation to tuberculosis
 
 **Subfield:** Infection, Immunity, and Vaccines
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1905 prize chapter](../../chapters/1905_Koch.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1905_Koch.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create a safe spreadsheet transmission or treatment-evidence model. Define a com
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1905/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

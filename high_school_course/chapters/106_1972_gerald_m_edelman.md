@@ -1,8 +1,7 @@
-# Gerald M. Edelman: Nobel Medicine, 1972
+# Explore: Gerald M. Edelman
 
-**Nobel Prize year:** 1972
-**Laureate:** Gerald M. Edelman
-**Nobel-recognized contribution:** for their discoveries concerning the chemical structure of antibodies
+**Scientist:** Gerald M. Edelman
+**Research focus:** for their discoveries concerning the chemical structure of antibodies
 
 **Subfield:** Infection, Immunity, and Vaccines
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1972 prize chapter](../../chapters/1972_Edelman_Porter.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1972_Edelman_Porter.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Construct a labeled paper model or digital diagram of the biological structure o
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1972/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

@@ -1,8 +1,7 @@
-# Svante P"a"abo: Nobel Medicine, 2022
+# Explore: Svante P"a"abo
 
-**Nobel Prize year:** 2022
-**Laureate:** Svante P"a"abo
-**Nobel-recognized contribution:** for his discoveries concerning the genomes of extinct hominins and human evolution
+**Scientist:** Svante P"a"abo
+**Research focus:** for his discoveries concerning the genomes of extinct hominins and human evolution
 
 **Subfield:** Reproduction, Aging, and Human Origins
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [2022 prize chapter](../../chapters/2022_Paabo.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/2022_Paabo.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create an evidence map for the discovery: question, observation, method, result,
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/2022/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

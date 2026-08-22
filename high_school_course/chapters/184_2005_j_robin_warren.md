@@ -1,8 +1,7 @@
-# J. Robin Warren: Nobel Medicine, 2005
+# Explore: J. Robin Warren
 
-**Nobel Prize year:** 2005
-**Laureate:** J. Robin Warren
-**Nobel-recognized contribution:** for their discovery of the bacterium Helicobacter pylori and its role in gastritis and peptic ulcer disease
+**Scientist:** J. Robin Warren
+**Research focus:** for their discovery of the bacterium Helicobacter pylori and its role in gastritis and peptic ulcer disease
 
 **Subfield:** Infection, Immunity, and Vaccines
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [2005 prize chapter](../../chapters/2005_Marshall_Warren.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/2005_Marshall_Warren.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create a safe spreadsheet transmission or treatment-evidence model. Define a com
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/2005/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

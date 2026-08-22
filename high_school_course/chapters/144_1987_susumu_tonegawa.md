@@ -1,8 +1,7 @@
-# Susumu Tonegawa: Nobel Medicine, 1987
+# Explore: Susumu Tonegawa
 
-**Nobel Prize year:** 1987
-**Laureate:** Susumu Tonegawa
-**Nobel-recognized contribution:** for his discovery of the genetic principle for generation of antibody diversity
+**Scientist:** Susumu Tonegawa
+**Research focus:** for his discovery of the genetic principle for generation of antibody diversity
 
 **Subfield:** Infection, Immunity, and Vaccines
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1987 prize chapter](../../chapters/1987_Tonegawa.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1987_Tonegawa.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Build a paper or spreadsheet model of inheritance, gene regulation, or sequence 
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1987/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

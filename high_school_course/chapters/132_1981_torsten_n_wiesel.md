@@ -1,8 +1,7 @@
-# Torsten N. Wiesel: Nobel Medicine, 1981
+# Explore: Torsten N. Wiesel
 
-**Nobel Prize year:** 1981
-**Laureate:** Torsten N. Wiesel
-**Nobel-recognized contribution:** for his discoveries concerning the functional specialization of the cerebral hemispheres; and for their discoveries concerning information processing in the visual system
+**Scientist:** Torsten N. Wiesel
+**Research focus:** for his discoveries concerning the functional specialization of the cerebral hemispheres; and for their discoveries concerning information processing in the visual system
 
 **Subfield:** Cell Biology and Molecular Systems
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1981 prize chapter](../../chapters/1981_Sperry_Hubel_Wiesel.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1981_Sperry_Hubel_Wiesel.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create an evidence map for the discovery: question, observation, method, result,
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1981/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

@@ -1,8 +1,7 @@
-# Har Gobind Khorana: Nobel Medicine, 1968
+# Explore: Har Gobind Khorana
 
-**Nobel Prize year:** 1968
-**Laureate:** Har Gobind Khorana
-**Nobel-recognized contribution:** for their interpretation of the genetic code and its function in protein synthesis
+**Scientist:** Har Gobind Khorana
+**Research focus:** for their interpretation of the genetic code and its function in protein synthesis
 
 **Subfield:** Genetics, Genomics, and Development
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1968 prize chapter](../../chapters/1968_Holley_Khorana_Nirenberg.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1968_Holley_Khorana_Nirenberg.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Build a paper or spreadsheet model of inheritance, gene regulation, or sequence 
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1968/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

@@ -1,8 +1,7 @@
-# Robert B'ar'any: Nobel Medicine, 1914
+# Explore: Robert B'ar'any
 
-**Nobel Prize year:** 1914
-**Laureate:** Robert B'ar'any
-**Nobel-recognized contribution:** for his work on the physiology and pathology of the vestibular apparatus
+**Scientist:** Robert B'ar'any
+**Research focus:** for his work on the physiology and pathology of the vestibular apparatus
 
 **Subfield:** Neuroscience, Senses, and Behavior
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1914 prize chapter](../../chapters/1914_Barany.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1914_Barany.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create an evidence map for the discovery: question, observation, method, result,
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1914/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

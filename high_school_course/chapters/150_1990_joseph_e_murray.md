@@ -1,8 +1,7 @@
-# Joseph E. Murray: Nobel Medicine, 1990
+# Explore: Joseph E. Murray
 
-**Nobel Prize year:** 1990
-**Laureate:** Joseph E. Murray
-**Nobel-recognized contribution:** for their discoveries concerning organ and cell transplantation in the treatment of human disease
+**Scientist:** Joseph E. Murray
+**Research focus:** for their discoveries concerning organ and cell transplantation in the treatment of human disease
 
 **Subfield:** Reproduction, Aging, and Human Origins
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1990 prize chapter](../../chapters/1990_Murray_Thomas.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1990_Murray_Thomas.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create a safe spreadsheet transmission or treatment-evidence model. Define a com
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1990/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

@@ -1,8 +1,7 @@
-# Paul C. Lauterbur: Nobel Medicine, 2003
+# Explore: Paul C. Lauterbur
 
-**Nobel Prize year:** 2003
-**Laureate:** Paul C. Lauterbur
-**Nobel-recognized contribution:** for their discoveries concerning magnetic resonance imaging
+**Scientist:** Paul C. Lauterbur
+**Research focus:** for their discoveries concerning magnetic resonance imaging
 
 **Subfield:** Medical Technology and Research Methods
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [2003 prize chapter](../../chapters/2003_Lauterbur_Mansfield.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/2003_Lauterbur_Mansfield.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create an evidence map for the discovery: question, observation, method, result,
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/2003/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

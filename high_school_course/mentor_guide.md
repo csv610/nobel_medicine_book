@@ -33,6 +33,16 @@ A laureate may fit more than one field. The course gives each chapter one primar
 4. Point out the chapter's mentor question before students read the source chapter.
 5. Let students choose whether to complete the project alone, with a partner, or as a small team.
 
+## The delayed historical reveal
+
+Do not begin by naming the prize or telling students that the work was judged “the best.” First let them encounter the problem, make a prediction, and analyze evidence. After their discussion or project, reveal the scientist's historical recognition and ask:
+
+- Which parts of our reasoning resemble the original investigation?
+- Where did our evidence remain weaker or more limited?
+- Why might a discovery be important without making its author superhuman?
+
+This sequence protects creative risk-taking while still giving students the full historical context. It also makes recognition a question for analysis rather than an authority signal.
+
 ## Keep curiosity alive
 
 Praise good questions, not just correct answers. When a student says “I don't understand,” ask which word, step, or assumption is blocking them. Connect unfamiliar science to something tangible: a signal, a map, a lock, a filter, a traffic network, a family trait, or a decision about risk.

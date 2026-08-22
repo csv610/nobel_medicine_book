@@ -1,8 +1,7 @@
-# Richard J. Roberts: Nobel Medicine, 1993
+# Explore: Richard J. Roberts
 
-**Nobel Prize year:** 1993
-**Laureate:** Richard J. Roberts
-**Nobel-recognized contribution:** for their discoveries of split genes and RNA splicing
+**Scientist:** Richard J. Roberts
+**Research focus:** for their discoveries of split genes and RNA splicing
 
 **Subfield:** Genetics, Genomics, and Development
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1993 prize chapter](../../chapters/1993_Roberts_Sharp.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1993_Roberts_Sharp.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Build a paper or spreadsheet model of inheritance, gene regulation, or sequence 
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1993/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

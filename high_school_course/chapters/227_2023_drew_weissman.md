@@ -1,8 +1,7 @@
-# Drew Weissman: Nobel Medicine, 2023
+# Explore: Drew Weissman
 
-**Nobel Prize year:** 2023
-**Laureate:** Drew Weissman
-**Nobel-recognized contribution:** for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19
+**Scientist:** Drew Weissman
+**Research focus:** for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19
 
 **Subfield:** Infection, Immunity, and Vaccines
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [2023 prize chapter](../../chapters/2023_Kariko_Weissman.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/2023_Kariko_Weissman.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create a safe spreadsheet transmission or treatment-evidence model. Define a com
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/2023/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

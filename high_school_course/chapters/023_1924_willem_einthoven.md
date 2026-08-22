@@ -1,8 +1,7 @@
-# Willem Einthoven: Nobel Medicine, 1924
+# Explore: Willem Einthoven
 
-**Nobel Prize year:** 1924
-**Laureate:** Willem Einthoven
-**Nobel-recognized contribution:** for his discovery of the mechanism of the electrocardiogram
+**Scientist:** Willem Einthoven
+**Research focus:** for his discovery of the mechanism of the electrocardiogram
 
 **Subfield:** Medical Technology and Research Methods
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1924 prize chapter](../../chapters/1924_Einthoven.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1924_Einthoven.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create an evidence map for the discovery: question, observation, method, result,
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1924/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

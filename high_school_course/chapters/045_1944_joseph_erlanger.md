@@ -1,8 +1,7 @@
-# Joseph Erlanger: Nobel Medicine, 1944
+# Explore: Joseph Erlanger
 
-**Nobel Prize year:** 1944
-**Laureate:** Joseph Erlanger
-**Nobel-recognized contribution:** for their discoveries relating to the highly differentiated functions of single nerve fibres
+**Scientist:** Joseph Erlanger
+**Research focus:** for their discoveries relating to the highly differentiated functions of single nerve fibres
 
 **Subfield:** Neuroscience, Senses, and Behavior
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1944 prize chapter](../../chapters/1944_Erlanger_Gasser.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1944_Erlanger_Gasser.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Design a safe signal-and-response investigation using a computer simulation, rul
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1944/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.

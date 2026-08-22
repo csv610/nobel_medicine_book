@@ -1,18 +1,18 @@
 # Therapeutics, Surgery, and Public Health
 
-This subfield groups laureate chapters that explore therapeutics, surgery, and public health. Begin with the [mentor guide](../mentor_guide.md), then choose any chapter below.
+This group explores therapeutics, surgery, and public health. Choose any scientist below, then begin with the curiosity hook in that chapter.
 
-## Laureate chapters
+## Scientists to explore
 
-- [Niels Ryberg Finsen: Nobel Medicine, 1903](../chapters/003_1903_niels_ryberg_finsen.md)
-- [Emil Theodor Kocher: Nobel Medicine, 1909](../chapters/011_1909_emil_theodor_kocher.md)
-- [Julius Wagner-Jauregg: Nobel Medicine, 1927](../chapters/025_1927_julius_wagner_jauregg.md)
-- [Warren Hastings Whipple: Nobel Medicine, 1931](../chapters/030_1931_warren_hastings_whipple.md)
-- [George Hoyt Whipple: Nobel Medicine, 1934](../chapters/034_1934_george_hoyt_whipple.md)
-- [George Richards Minot: Nobel Medicine, 1934](../chapters/035_1934_george_richards_minot.md)
-- [William Parry Murphy: Nobel Medicine, 1934](../chapters/036_1934_william_parry_murphy.md)
-- [Paul Hermann M"uller: Nobel Medicine, 1948](../chapters/054_1948_paul_hermann_m_uller.md)
-- [Ant'onio Egas Moniz: Nobel Medicine, 1949](../chapters/056_1949_ant_onio_egas_moniz.md)
-- [James W. Black: Nobel Medicine, 1988](../chapters/145_1988_james_w_black.md)
-- [Gertrude B. Elion: Nobel Medicine, 1988](../chapters/146_1988_gertrude_b_elion.md)
-- [George H. Hitchings: Nobel Medicine, 1988](../chapters/147_1988_george_h_hitchings.md)
+- [Explore: Niels Ryberg Finsen](../chapters/003_1903_niels_ryberg_finsen.md)
+- [Explore: Emil Theodor Kocher](../chapters/011_1909_emil_theodor_kocher.md)
+- [Explore: Julius Wagner-Jauregg](../chapters/025_1927_julius_wagner_jauregg.md)
+- [Explore: Warren Hastings Whipple](../chapters/030_1931_warren_hastings_whipple.md)
+- [Explore: George Hoyt Whipple](../chapters/034_1934_george_hoyt_whipple.md)
+- [Explore: George Richards Minot](../chapters/035_1934_george_richards_minot.md)
+- [Explore: William Parry Murphy](../chapters/036_1934_william_parry_murphy.md)
+- [Explore: Paul Hermann M"uller](../chapters/054_1948_paul_hermann_m_uller.md)
+- [Explore: Ant'onio Egas Moniz](../chapters/056_1949_ant_onio_egas_moniz.md)
+- [Explore: James W. Black](../chapters/145_1988_james_w_black.md)
+- [Explore: Gertrude B. Elion](../chapters/146_1988_gertrude_b_elion.md)
+- [Explore: George H. Hitchings](../chapters/147_1988_george_h_hitchings.md)

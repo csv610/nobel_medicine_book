@@ -1,8 +1,7 @@
-# Corneille Heymans: Nobel Medicine, 1938
+# Explore: Corneille Heymans
 
-**Nobel Prize year:** 1938
-**Laureate:** Corneille Heymans
-**Nobel-recognized contribution:** for the discovery of the role of the sinus and aortic mechanisms in the regulation of respiration
+**Scientist:** Corneille Heymans
+**Research focus:** for the discovery of the role of the sinus and aortic mechanisms in the regulation of respiration
 
 **Subfield:** Physiology, Metabolism, and Endocrinology
 
@@ -12,7 +11,7 @@
 
 ## Read and connect
 
-Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the relevant source chapter in the main book: [1938 prize chapter](../../chapters/1938_Heymans.tex). Look for the question, method, evidence, uncertainty, and later impact.
+Start with the [course foundations](../foundations.md) and [safety and ethics guide](../safety_ethics.md). Then read the [extended background reading](../../chapters/1938_Heymans.tex). Look for the question, method, evidence, uncertainty, and later impact.
 
 ## Project
 
@@ -22,8 +21,8 @@ Create an evidence map for the discovery: question, observation, method, result,
 
 ## Reflection
 
-1. What problem was the laureate trying to solve?
+1. What problem was the scientist trying to solve?
 2. What evidence made the contribution persuasive?
 3. What would you want to test or learn next?
 
-Source: [Official Nobel Prize summary](https://www.nobelprize.org/prizes/medicine/1938/summary/).
+Further reading: Use the extended background reading and its bibliography to continue exploring this question.
