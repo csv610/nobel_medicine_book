@@ -1,5 +1,7 @@
 # Reproduction, Aging, and Human Origins
 
+Read the [high-level introduction](../introduction/07_reproduction_aging_human_origins.md) before browsing the individual chapters.
+
 This group explores reproduction, aging, and human origins. Choose any scientist below, then begin with the curiosity hook in that chapter.
 
 ## Scientists to explore

@@ -20,6 +20,10 @@ The projects are designed for classrooms, clubs, or independent study. They do n
 3. Use the [assessment guide](assessment.md) for any selected chapter.
 4. Browse the [subfield groups](subfields/) or the complete [232 scientist chapters](chapters/).
 
+## Introduction sequence
+
+Before choosing an individual chapter, students should read [Science Is a Relay](introduction/00_science_as_a_relay.md) and at least one of the eight [subfield introductions](introduction/). These short chapters provide the map, vocabulary, surprising starting points, and beginner-friendly chapter suggestions. The subfield index pages then provide access to every scientist in that group.
+
 ### Mentors
 
 Use the separate [mentor guide](mentor_guide.md) to introduce subfields, support inquiry, and reveal historical recognition only after students have explored the evidence.

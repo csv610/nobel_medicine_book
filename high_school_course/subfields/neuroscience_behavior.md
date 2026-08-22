@@ -1,5 +1,7 @@
 # Neuroscience, Senses, and Behavior
 
+Read the [high-level introduction](../introduction/03_neuroscience_senses_behavior.md) before browsing the individual chapters.
+
 This group explores neuroscience, senses, and behavior. Choose any scientist below, then begin with the curiosity hook in that chapter.
 
 ## Scientists to explore

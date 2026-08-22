@@ -1,5 +1,7 @@
 # Therapeutics, Surgery, and Public Health
 
+Read the [high-level introduction](../introduction/06_therapeutics_surgery_public_health.md) before browsing the individual chapters.
+
 This group explores therapeutics, surgery, and public health. Choose any scientist below, then begin with the curiosity hook in that chapter.
 
 ## Scientists to explore

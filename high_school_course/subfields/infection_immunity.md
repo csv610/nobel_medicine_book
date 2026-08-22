@@ -1,5 +1,7 @@
 # Infection, Immunity, and Vaccines
 
+Read the [high-level introduction](../introduction/01_infection_immunity_vaccines.md) before browsing the individual chapters.
+
 This group explores infection, immunity, and vaccines. Choose any scientist below, then begin with the curiosity hook in that chapter.
 
 ## Scientists to explore

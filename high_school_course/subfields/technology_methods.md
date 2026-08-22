@@ -1,5 +1,7 @@
 # Medical Technology and Research Methods
 
+Read the [high-level introduction](../introduction/08_medical_technology_research_methods.md) before browsing the individual chapters.
+
 This group explores medical technology and research methods. Choose any scientist below, then begin with the curiosity hook in that chapter.
 
 ## Scientists to explore

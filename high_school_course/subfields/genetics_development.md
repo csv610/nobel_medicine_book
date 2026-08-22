@@ -1,5 +1,7 @@
 # Genetics, Genomics, and Development
 
+Read the [high-level introduction](../introduction/02_genetics_genomics_development.md) before browsing the individual chapters.
+
 This group explores genetics, genomics, and development. Choose any scientist below, then begin with the curiosity hook in that chapter.
 
 ## Scientists to explore

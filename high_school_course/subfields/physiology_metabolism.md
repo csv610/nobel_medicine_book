@@ -1,5 +1,7 @@
 # Physiology, Metabolism, and Endocrinology
 
+Read the [high-level introduction](../introduction/04_physiology_metabolism_endocrinology.md) before browsing the individual chapters.
+
 This group explores physiology, metabolism, and endocrinology. Choose any scientist below, then begin with the curiosity hook in that chapter.
 
 ## Scientists to explore

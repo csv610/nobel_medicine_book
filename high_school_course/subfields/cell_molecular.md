@@ -1,5 +1,7 @@
 # Cell Biology and Molecular Systems
 
+Read the [high-level introduction](../introduction/05_cell_biology_molecular_systems.md) before browsing the individual chapters.
+
 This group explores cell biology and molecular systems. Choose any scientist below, then begin with the curiosity hook in that chapter.
 
 ## Scientists to explore
