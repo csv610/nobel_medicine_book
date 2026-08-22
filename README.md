@@ -26,6 +26,10 @@ chapters/                   — 116 chapter source files
 
 Each chapter covers a single award year and may include one, two, or three laureates. The master file includes an overview table and an index, then inputs all chapters in chronological order.
 
+## Bibliographies
+
+Every chapter includes a bibliography with the official Nobel Prize summary and a winner-authored primary source. Nobel Lectures are linked from the official Nobel Prize archive and are downloadable where available; journal papers use stable DOI links to the publisher archive.
+
 ## Chapter Structure
 
 Every chapter follows the same pattern:
