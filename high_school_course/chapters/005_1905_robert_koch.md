@@ -1,8 +1,14 @@
 # Robert Koch: Nobel Medicine, 1905
 
-**Nobel Prize year:** 1905  
-**Laureate:** Robert Koch  
+**Nobel Prize year:** 1905
+**Laureate:** Robert Koch
 **Nobel-recognized contribution:** for his investigations and discoveries in relation to tuberculosis
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

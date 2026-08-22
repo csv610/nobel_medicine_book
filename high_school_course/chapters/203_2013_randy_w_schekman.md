@@ -1,8 +1,14 @@
 # Randy W. Schekman: Nobel Medicine, 2013
 
-**Nobel Prize year:** 2013  
-**Laureate:** Randy W. Schekman  
+**Nobel Prize year:** 2013
+**Laureate:** Randy W. Schekman
 **Nobel-recognized contribution:** for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells
+
+**Subfield:** Cell Biology and Molecular Systems
+
+> **Why this matters:** The smallest structures in your body can operate like factories, switches, address labels, and self-correcting systems.
+>
+> As your mentor, ask: What structure or molecule is doing the work, and how would you know that it—not a neighboring process—is responsible?
 
 ## Read and connect
 

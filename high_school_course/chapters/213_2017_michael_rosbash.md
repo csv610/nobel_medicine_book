@@ -1,8 +1,14 @@
 # Michael Rosbash: Nobel Medicine, 2017
 
-**Nobel Prize year:** 2017  
-**Laureate:** Michael Rosbash  
+**Nobel Prize year:** 2017
+**Laureate:** Michael Rosbash
 **Nobel-recognized contribution:** for their discoveries of molecular mechanisms controlling circadian rhythm
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

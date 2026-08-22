@@ -1,8 +1,14 @@
 # Robert B'ar'any: Nobel Medicine, 1914
 
-**Nobel Prize year:** 1914  
-**Laureate:** Robert B'ar'any  
+**Nobel Prize year:** 1914
+**Laureate:** Robert B'ar'any
 **Nobel-recognized contribution:** for his work on the physiology and pathology of the vestibular apparatus
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Your brain does not receive a finished picture or sound; it builds an experience from streams of electrical and chemical signals.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

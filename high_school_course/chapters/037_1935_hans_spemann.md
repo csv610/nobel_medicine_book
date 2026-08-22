@@ -1,8 +1,14 @@
 # Hans Spemann: Nobel Medicine, 1935
 
-**Nobel Prize year:** 1935  
-**Laureate:** Hans Spemann  
+**Nobel Prize year:** 1935
+**Laureate:** Hans Spemann
 **Nobel-recognized contribution:** for his discovery of the organizer effect in embryonic development
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** A tiny change in genetic information can alter an entire organism—and sometimes reveal a rule shared by all life.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

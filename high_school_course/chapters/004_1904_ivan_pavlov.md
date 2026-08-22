@@ -1,8 +1,14 @@
 # Ivan Pavlov: Nobel Medicine, 1904
 
-**Nobel Prize year:** 1904  
-**Laureate:** Ivan Pavlov  
+**Nobel Prize year:** 1904
+**Laureate:** Ivan Pavlov
 **Nobel-recognized contribution:** in recognition of his work on the physiology of digestion
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Your brain does not receive a finished picture or sound; it builds an experience from streams of electrical and chemical signals.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

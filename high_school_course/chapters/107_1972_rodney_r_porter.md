@@ -1,8 +1,14 @@
 # Rodney R. Porter: Nobel Medicine, 1972
 
-**Nobel Prize year:** 1972  
-**Laureate:** Rodney R. Porter  
+**Nobel Prize year:** 1972
+**Laureate:** Rodney R. Porter
 **Nobel-recognized contribution:** for their discoveries concerning the chemical structure of antibodies
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

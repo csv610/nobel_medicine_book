@@ -1,8 +1,14 @@
 # Andrew Z. Fire: Nobel Medicine, 2006
 
-**Nobel Prize year:** 2006  
-**Laureate:** Andrew Z. Fire  
+**Nobel Prize year:** 2006
+**Laureate:** Andrew Z. Fire
 **Nobel-recognized contribution:** for their discovery of RNA interference — gene silencing by double-stranded RNA
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** A tiny change in genetic information can alter an entire organism—and sometimes reveal a rule shared by all life.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

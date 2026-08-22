@@ -1,8 +1,14 @@
 # Katalin Karik'o: Nobel Medicine, 2023
 
-**Nobel Prize year:** 2023  
-**Laureate:** Katalin Karik'o  
+**Nobel Prize year:** 2023
+**Laureate:** Katalin Karik'o
 **Nobel-recognized contribution:** for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

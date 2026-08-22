@@ -1,8 +1,14 @@
 # Dickinson W. Richards: Nobel Medicine, 1956
 
-**Nobel Prize year:** 1956  
-**Laureate:** Dickinson W. Richards  
+**Nobel Prize year:** 1956
+**Laureate:** Dickinson W. Richards
 **Nobel-recognized contribution:** for their discoveries concerning heart catheterisation and pathological changes in the circulatory system
+
+**Subfield:** Medical Technology and Research Methods
+
+> **Why this matters:** Many medical breakthroughs began when someone invented a better way to measure what the body was doing.
+
+> As your mentor, ask: What does the instrument actually measure, and what assumptions connect that measurement to a biological conclusion?
 
 ## Read and connect
 

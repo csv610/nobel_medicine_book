@@ -1,8 +1,14 @@
 # Paul Hermann M"uller: Nobel Medicine, 1948
 
-**Nobel Prize year:** 1948  
-**Laureate:** Paul Hermann M"uller  
+**Nobel Prize year:** 1948
+**Laureate:** Paul Hermann M"uller
 **Nobel-recognized contribution:** for his discovery of the high efficiency of DDT as a contact poison against several arthropods
+
+**Subfield:** Therapeutics, Surgery, and Public Health
+
+> **Why this matters:** A dramatic treatment story is only the beginning; careful comparisons reveal whether a therapy truly helps more people than it harms.
+>
+> As your mentor, ask: Who was compared with whom, what benefit was measured, what harms were tracked, and who was left out?
 
 ## Read and connect
 

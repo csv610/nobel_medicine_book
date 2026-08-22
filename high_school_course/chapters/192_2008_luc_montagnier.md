@@ -1,8 +1,14 @@
 # Luc Montagnier: Nobel Medicine, 2008
 
-**Nobel Prize year:** 2008  
-**Laureate:** Luc Montagnier  
+**Nobel Prize year:** 2008
+**Laureate:** Luc Montagnier
 **Nobel-recognized contribution:** for his discovery of human papillomaviruses causing cervical cancer; and for their discovery of human immunodeficiency virus
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

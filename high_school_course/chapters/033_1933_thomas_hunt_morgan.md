@@ -1,8 +1,14 @@
 # Thomas Hunt Morgan: Nobel Medicine, 1933
 
-**Nobel Prize year:** 1933  
-**Laureate:** Thomas Hunt Morgan  
+**Nobel Prize year:** 1933
+**Laureate:** Thomas Hunt Morgan
 **Nobel-recognized contribution:** for his discoveries concerning the role played by the chromosomes in heredity
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** A tiny change in genetic information can alter an entire organism—and sometimes reveal a rule shared by all life.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

@@ -1,8 +1,14 @@
 # Herbert Spencer Gasser: Nobel Medicine, 1944
 
-**Nobel Prize year:** 1944  
-**Laureate:** Herbert Spencer Gasser  
+**Nobel Prize year:** 1944
+**Laureate:** Herbert Spencer Gasser
 **Nobel-recognized contribution:** for their discoveries relating to the highly differentiated functions of single nerve fibres
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Your brain does not receive a finished picture or sound; it builds an experience from streams of electrical and chemical signals.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

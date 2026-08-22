@@ -1,8 +1,14 @@
 # William Parry Murphy: Nobel Medicine, 1934
 
-**Nobel Prize year:** 1934  
-**Laureate:** William Parry Murphy  
+**Nobel Prize year:** 1934
+**Laureate:** William Parry Murphy
 **Nobel-recognized contribution:** for their discoveries concerning liver therapy in cases of anaemia
+
+**Subfield:** Therapeutics, Surgery, and Public Health
+
+> **Why this matters:** A dramatic treatment story is only the beginning; careful comparisons reveal whether a therapy truly helps more people than it harms.
+>
+> As your mentor, ask: Who was compared with whom, what benefit was measured, what harms were tracked, and who was left out?
 
 ## Read and connect
 

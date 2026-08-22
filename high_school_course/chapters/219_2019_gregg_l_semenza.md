@@ -1,8 +1,14 @@
 # Gregg L. Semenza: Nobel Medicine, 2019
 
-**Nobel Prize year:** 2019  
-**Laureate:** Gregg L. Semenza  
+**Nobel Prize year:** 2019
+**Laureate:** Gregg L. Semenza
 **Nobel-recognized contribution:** for their discoveries of how cells sense and adapt to oxygen availability
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** Your body is running thousands of feedback systems right now, even while you sit still and read.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

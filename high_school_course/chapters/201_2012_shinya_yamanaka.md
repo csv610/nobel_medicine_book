@@ -1,8 +1,14 @@
 # Shinya Yamanaka: Nobel Medicine, 2012
 
-**Nobel Prize year:** 2012  
-**Laureate:** Shinya Yamanaka  
+**Nobel Prize year:** 2012
+**Laureate:** Shinya Yamanaka
 **Nobel-recognized contribution:** for the discovery that mature cells can be reprogrammed to become pluripotent
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** A tiny change in genetic information can alter an entire organism—and sometimes reveal a rule shared by all life.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

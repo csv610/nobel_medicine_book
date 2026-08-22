@@ -1,8 +1,14 @@
 # Gerty Theresa Cori: Nobel Medicine, 1947
 
-**Nobel Prize year:** 1947  
-**Laureate:** Gerty Theresa Cori  
+**Nobel Prize year:** 1947
+**Laureate:** Gerty Theresa Cori
 **Nobel-recognized contribution:** for their discovery of the course of the catalytic conversion of glycogen; and for his discovery of the part played by the hormone of the anterior pituitary lobe in the metabolism of sugar
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** A heartbeat, a thought, and a sprint all depend on chemical reactions that turn materials into usable energy and controlled signals.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

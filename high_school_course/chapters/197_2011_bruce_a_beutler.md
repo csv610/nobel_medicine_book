@@ -1,8 +1,14 @@
 # Bruce A. Beutler: Nobel Medicine, 2011
 
-**Nobel Prize year:** 2011  
-**Laureate:** Bruce A. Beutler  
+**Nobel Prize year:** 2011
+**Laureate:** Bruce A. Beutler
 **Nobel-recognized contribution:** for their discoveries concerning activation of innate immunity; and for his discovery of the dendritic cell and its role in adaptive immunity
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

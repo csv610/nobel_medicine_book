@@ -1,8 +1,14 @@
 # Joseph Erlanger: Nobel Medicine, 1944
 
-**Nobel Prize year:** 1944  
-**Laureate:** Joseph Erlanger  
+**Nobel Prize year:** 1944
+**Laureate:** Joseph Erlanger
 **Nobel-recognized contribution:** for their discoveries relating to the highly differentiated functions of single nerve fibres
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

@@ -1,8 +1,14 @@
 # Edward Lawrie Tatum: Nobel Medicine, 1958
 
-**Nobel Prize year:** 1958  
-**Laureate:** Edward Lawrie Tatum  
+**Nobel Prize year:** 1958
+**Laureate:** Edward Lawrie Tatum
 **Nobel-recognized contribution:** for their discovery that genes act by regulating definite chemical events
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** A tiny change in genetic information can alter an entire organism—and sometimes reveal a rule shared by all life.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

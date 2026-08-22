@@ -1,8 +1,14 @@
 # August Krogh: Nobel Medicine, 1920
 
-**Nobel Prize year:** 1920  
-**Laureate:** August Krogh  
+**Nobel Prize year:** 1920
+**Laureate:** August Krogh
 **Nobel-recognized contribution:** for his discovery of the capillary motor regulating mechanism
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** A heartbeat, a thought, and a sprint all depend on chemical reactions that turn materials into usable energy and controlled signals.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

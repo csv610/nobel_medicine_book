@@ -1,8 +1,14 @@
 # Godfrey N. Hounsfield: Nobel Medicine, 1979
 
-**Nobel Prize year:** 1979  
-**Laureate:** Godfrey N. Hounsfield  
+**Nobel Prize year:** 1979
+**Laureate:** Godfrey N. Hounsfield
 **Nobel-recognized contribution:** for the development of computer-assisted tomography
+
+**Subfield:** Medical Technology and Research Methods
+
+> **Why this matters:** Many medical breakthroughs began when someone invented a better way to measure what the body was doing.
+>
+> As your mentor, ask: What does the instrument actually measure, and what assumptions connect that measurement to a biological conclusion?
 
 ## Read and connect
 

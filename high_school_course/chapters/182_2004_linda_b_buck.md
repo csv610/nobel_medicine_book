@@ -1,8 +1,14 @@
 # Linda B. Buck: Nobel Medicine, 2004
 
-**Nobel Prize year:** 2004  
-**Laureate:** Linda B. Buck  
+**Nobel Prize year:** 2004
+**Laureate:** Linda B. Buck
 **Nobel-recognized contribution:** for their discoveries of odorant receptors and the organization of the olfactory system
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Your brain does not receive a finished picture or sound; it builds an experience from streams of electrical and chemical signals.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

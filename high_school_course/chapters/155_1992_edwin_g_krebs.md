@@ -1,8 +1,14 @@
 # Edwin G. Krebs: Nobel Medicine, 1992
 
-**Nobel Prize year:** 1992  
-**Laureate:** Edwin G. Krebs  
+**Nobel Prize year:** 1992
+**Laureate:** Edwin G. Krebs
 **Nobel-recognized contribution:** for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism
+
+**Subfield:** Cell Biology and Molecular Systems
+
+> **Why this matters:** The smallest structures in your body can operate like factories, switches, address labels, and self-correcting systems.
+>
+> As your mentor, ask: What structure or molecule is doing the work, and how would you know that it—not a neighboring process—is responsible?
 
 ## Read and connect
 

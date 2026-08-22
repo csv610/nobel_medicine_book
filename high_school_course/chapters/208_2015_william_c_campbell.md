@@ -1,8 +1,14 @@
 # William C. Campbell: Nobel Medicine, 2015
 
-**Nobel Prize year:** 2015  
-**Laureate:** William C. Campbell  
+**Nobel Prize year:** 2015
+**Laureate:** William C. Campbell
 **Nobel-recognized contribution:** for their discoveries concerning a novel therapy against infections caused by roundworm parasites; and for her discoveries concerning a novel therapy against malaria
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

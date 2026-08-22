@@ -1,8 +1,14 @@
 # Rita Levi-Montalcini: Nobel Medicine, 1986
 
-**Nobel Prize year:** 1986  
-**Laureate:** Rita Levi-Montalcini  
+**Nobel Prize year:** 1986
+**Laureate:** Rita Levi-Montalcini
 **Nobel-recognized contribution:** for their discoveries of growth factors
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** Your body is running thousands of feedback systems right now, even while you sit still and read.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

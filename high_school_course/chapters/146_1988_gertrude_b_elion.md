@@ -1,8 +1,14 @@
 # Gertrude B. Elion: Nobel Medicine, 1988
 
-**Nobel Prize year:** 1988  
-**Laureate:** Gertrude B. Elion  
+**Nobel Prize year:** 1988
+**Laureate:** Gertrude B. Elion
 **Nobel-recognized contribution:** for their discoveries of important principles for drug treatment
+
+**Subfield:** Therapeutics, Surgery, and Public Health
+
+> **Why this matters:** A dramatic treatment story is only the beginning; careful comparisons reveal whether a therapy truly helps more people than it harms.
+>
+> As your mentor, ask: Who was compared with whom, what benefit was measured, what harms were tracked, and who was left out?
 
 ## Read and connect
 

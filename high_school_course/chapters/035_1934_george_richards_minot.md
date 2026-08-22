@@ -1,8 +1,14 @@
 # George Richards Minot: Nobel Medicine, 1934
 
-**Nobel Prize year:** 1934  
-**Laureate:** George Richards Minot  
+**Nobel Prize year:** 1934
+**Laureate:** George Richards Minot
 **Nobel-recognized contribution:** for their discoveries concerning liver therapy in cases of anaemia
+
+**Subfield:** Therapeutics, Surgery, and Public Health
+
+> **Why this matters:** Modern medicine often begins with a stubborn puzzle: why did one patient improve while others did not?
+>
+> As your mentor, ask: Who was compared with whom, what benefit was measured, what harms were tracked, and who was left out?
 
 ## Read and connect
 

@@ -1,8 +1,14 @@
 # David Baltimore: Nobel Medicine, 1975
 
-**Nobel Prize year:** 1975  
-**Laureate:** David Baltimore  
+**Nobel Prize year:** 1975
+**Laureate:** David Baltimore
 **Nobel-recognized contribution:** for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

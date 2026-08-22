@@ -1,8 +1,14 @@
 # Arthur Kornberg: Nobel Medicine, 1959
 
-**Nobel Prize year:** 1959  
-**Laureate:** Arthur Kornberg  
+**Nobel Prize year:** 1959
+**Laureate:** Arthur Kornberg
 **Nobel-recognized contribution:** for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** Almost every cell in your body carries the same DNA, yet cells can become bone, nerve, or muscle by reading different instructions.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

@@ -1,8 +1,14 @@
 # Ferid Murad: Nobel Medicine, 1998
 
-**Nobel Prize year:** 1998  
-**Laureate:** Ferid Murad  
+**Nobel Prize year:** 1998
+**Laureate:** Ferid Murad
 **Nobel-recognized contribution:** for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** A heartbeat, a thought, and a sprint all depend on chemical reactions that turn materials into usable energy and controlled signals.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

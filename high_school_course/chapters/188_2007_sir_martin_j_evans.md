@@ -1,8 +1,14 @@
 # Sir Martin J. Evans: Nobel Medicine, 2007
 
-**Nobel Prize year:** 2007  
-**Laureate:** Sir Martin J. Evans  
+**Nobel Prize year:** 2007
+**Laureate:** Sir Martin J. Evans
 **Nobel-recognized contribution:** for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** Almost every cell in your body carries the same DNA, yet cells can become bone, nerve, or muscle by reading different instructions.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

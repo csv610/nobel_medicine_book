@@ -1,8 +1,14 @@
 # Fritz Albert Lipmann: Nobel Medicine, 1953
 
-**Nobel Prize year:** 1953  
-**Laureate:** Fritz Albert Lipmann  
+**Nobel Prize year:** 1953
+**Laureate:** Fritz Albert Lipmann
 **Nobel-recognized contribution:** for his discovery of the citric acid cycle; and for his discovery of co-enzyme A and its importance for intermediary metabolism
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** Your body is running thousands of feedback systems right now, even while you sit still and read.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

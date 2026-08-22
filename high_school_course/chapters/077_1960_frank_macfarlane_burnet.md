@@ -1,8 +1,14 @@
 # Frank Macfarlane Burnet: Nobel Medicine, 1960
 
-**Nobel Prize year:** 1960  
-**Laureate:** Frank Macfarlane Burnet  
+**Nobel Prize year:** 1960
+**Laureate:** Frank Macfarlane Burnet
 **Nobel-recognized contribution:** for their discovery of acquired immunological tolerance
+
+**Subfield:** Cell Biology and Molecular Systems
+
+> **Why this matters:** The smallest structures in your body can operate like factories, switches, address labels, and self-correcting systems.
+>
+> As your mentor, ask: What structure or molecule is doing the work, and how would you know that it—not a neighboring process—is responsible?
 
 ## Read and connect
 

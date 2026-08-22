@@ -1,8 +1,14 @@
 # Jean Dausset: Nobel Medicine, 1980
 
-**Nobel Prize year:** 1980  
-**Laureate:** Jean Dausset  
+**Nobel Prize year:** 1980
+**Laureate:** Jean Dausset
 **Nobel-recognized contribution:** for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** Almost every cell in your body carries the same DNA, yet cells can become bone, nerve, or muscle by reading different instructions.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

@@ -1,8 +1,14 @@
 # Baruj Benacerraf: Nobel Medicine, 1980
 
-**Nobel Prize year:** 1980  
-**Laureate:** Baruj Benacerraf  
+**Nobel Prize year:** 1980
+**Laureate:** Baruj Benacerraf
 **Nobel-recognized contribution:** for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** A tiny change in genetic information can alter an entire organism—and sometimes reveal a rule shared by all life.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

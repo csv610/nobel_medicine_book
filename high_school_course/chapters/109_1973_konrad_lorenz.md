@@ -1,8 +1,14 @@
 # Konrad Lorenz: Nobel Medicine, 1973
 
-**Nobel Prize year:** 1973  
-**Laureate:** Konrad Lorenz  
+**Nobel Prize year:** 1973
+**Laureate:** Konrad Lorenz
 **Nobel-recognized contribution:** for their discoveries concerning organization and elicitation of individual and group behaviour
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

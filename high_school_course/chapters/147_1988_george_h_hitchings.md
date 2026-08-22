@@ -1,8 +1,14 @@
 # George H. Hitchings: Nobel Medicine, 1988
 
-**Nobel Prize year:** 1988  
-**Laureate:** George H. Hitchings  
+**Nobel Prize year:** 1988
+**Laureate:** George H. Hitchings
 **Nobel-recognized contribution:** for their discoveries of important principles for drug treatment
+
+**Subfield:** Therapeutics, Surgery, and Public Health
+
+> **Why this matters:** Modern medicine often begins with a stubborn puzzle: why did one patient improve while others did not?
+>
+> As your mentor, ask: Who was compared with whom, what benefit was measured, what harms were tracked, and who was left out?
 
 ## Read and connect
 

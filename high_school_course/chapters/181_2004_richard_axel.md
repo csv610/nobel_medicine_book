@@ -1,8 +1,14 @@
 # Richard Axel: Nobel Medicine, 2004
 
-**Nobel Prize year:** 2004  
-**Laureate:** Richard Axel  
+**Nobel Prize year:** 2004
+**Laureate:** Richard Axel
 **Nobel-recognized contribution:** for their discoveries of odorant receptors and the organization of the olfactory system
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

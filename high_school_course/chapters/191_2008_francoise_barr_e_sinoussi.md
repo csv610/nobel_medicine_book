@@ -1,8 +1,14 @@
 # Francoise Barr'e-Sinoussi: Nobel Medicine, 2008
 
-**Nobel Prize year:** 2008  
-**Laureate:** Francoise Barr'e-Sinoussi  
+**Nobel Prize year:** 2008
+**Laureate:** Francoise Barr'e-Sinoussi
 **Nobel-recognized contribution:** for his discovery of human papillomaviruses causing cervical cancer; and for their discovery of human immunodeficiency virus
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

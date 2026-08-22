@@ -1,8 +1,14 @@
 # Gary Ruvkun: Nobel Medicine, 2024
 
-**Nobel Prize year:** 2024  
-**Laureate:** Gary Ruvkun  
+**Nobel Prize year:** 2024
+**Laureate:** Gary Ruvkun
 **Nobel-recognized contribution:** for the discovery of microRNA and its role in post-transcriptional gene regulation
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** A tiny change in genetic information can alter an entire organism—and sometimes reveal a rule shared by all life.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

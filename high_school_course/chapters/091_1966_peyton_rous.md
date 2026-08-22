@@ -1,8 +1,14 @@
 # Peyton Rous: Nobel Medicine, 1966
 
-**Nobel Prize year:** 1966  
-**Laureate:** Peyton Rous  
+**Nobel Prize year:** 1966
+**Laureate:** Peyton Rous
 **Nobel-recognized contribution:** for his discovery of tumour-inducing viruses; and for his discoveries concerning hormonal treatment of prostatic cancer
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

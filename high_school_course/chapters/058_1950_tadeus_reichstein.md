@@ -1,8 +1,14 @@
 # Tadeus Reichstein: Nobel Medicine, 1950
 
-**Nobel Prize year:** 1950  
-**Laureate:** Tadeus Reichstein  
+**Nobel Prize year:** 1950
+**Laureate:** Tadeus Reichstein
 **Nobel-recognized contribution:** for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** A heartbeat, a thought, and a sprint all depend on chemical reactions that turn materials into usable energy and controlled signals.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

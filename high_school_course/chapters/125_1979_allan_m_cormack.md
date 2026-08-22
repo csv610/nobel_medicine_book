@@ -1,8 +1,14 @@
 # Allan M. Cormack: Nobel Medicine, 1979
 
-**Nobel Prize year:** 1979  
-**Laureate:** Allan M. Cormack  
+**Nobel Prize year:** 1979
+**Laureate:** Allan M. Cormack
 **Nobel-recognized contribution:** for the development of computer-assisted tomography
+
+**Subfield:** Medical Technology and Research Methods
+
+> **Why this matters:** A tool does more than produce a picture or number: it changes which questions scientists can ask.
+>
+> As your mentor, ask: What does the instrument actually measure, and what assumptions connect that measurement to a biological conclusion?
 
 ## Read and connect
 

@@ -1,8 +1,14 @@
 # Henry Hallett Dale: Nobel Medicine, 1936
 
-**Nobel Prize year:** 1936  
-**Laureate:** Henry Hallett Dale  
+**Nobel Prize year:** 1936
+**Laureate:** Henry Hallett Dale
 **Nobel-recognized contribution:** for their discoveries relating to chemical transmission of nerve impulses
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Your brain does not receive a finished picture or sound; it builds an experience from streams of electrical and chemical signals.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

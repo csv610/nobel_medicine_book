@@ -1,8 +1,14 @@
 # Severo Ochoa: Nobel Medicine, 1959
 
-**Nobel Prize year:** 1959  
-**Laureate:** Severo Ochoa  
+**Nobel Prize year:** 1959
+**Laureate:** Severo Ochoa
 **Nobel-recognized contribution:** for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** A tiny change in genetic information can alter an entire organism—and sometimes reveal a rule shared by all life.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

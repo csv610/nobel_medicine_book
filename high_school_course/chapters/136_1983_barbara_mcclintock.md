@@ -1,8 +1,14 @@
 # Barbara McClintock: Nobel Medicine, 1983
 
-**Nobel Prize year:** 1983  
-**Laureate:** Barbara McClintock  
+**Nobel Prize year:** 1983
+**Laureate:** Barbara McClintock
 **Nobel-recognized contribution:** for her discovery of mobile genetic elements
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** Almost every cell in your body carries the same DNA, yet cells can become bone, nerve, or muscle by reading different instructions.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

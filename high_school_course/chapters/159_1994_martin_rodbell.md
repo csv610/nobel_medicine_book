@@ -1,8 +1,14 @@
 # Martin Rodbell: Nobel Medicine, 1994
 
-**Nobel Prize year:** 1994  
-**Laureate:** Martin Rodbell  
+**Nobel Prize year:** 1994
+**Laureate:** Martin Rodbell
 **Nobel-recognized contribution:** for their discovery of G proteins and the role of these proteins in signal transduction in cells
+
+**Subfield:** Cell Biology and Molecular Systems
+
+> **Why this matters:** The smallest structures in your body can operate like factories, switches, address labels, and self-correcting systems.
+>
+> As your mentor, ask: What structure or molecule is doing the work, and how would you know that it—not a neighboring process—is responsible?
 
 ## Read and connect
 

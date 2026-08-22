@@ -1,8 +1,14 @@
 # Alexander Fleming: Nobel Medicine, 1945
 
-**Nobel Prize year:** 1945  
-**Laureate:** Alexander Fleming  
+**Nobel Prize year:** 1945
+**Laureate:** Alexander Fleming
 **Nobel-recognized contribution:** for the discovery of penicillin and its curative effect in various infectious diseases
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

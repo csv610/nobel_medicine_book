@@ -1,8 +1,14 @@
 # Alfred D. Hershey: Nobel Medicine, 1969
 
-**Nobel Prize year:** 1969  
-**Laureate:** Alfred D. Hershey  
+**Nobel Prize year:** 1969
+**Laureate:** Alfred D. Hershey
 **Nobel-recognized contribution:** for their discoveries concerning the replication mechanism and the genetic structure of viruses
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

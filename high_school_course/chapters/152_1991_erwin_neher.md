@@ -1,8 +1,14 @@
 # Erwin Neher: Nobel Medicine, 1991
 
-**Nobel Prize year:** 1991  
-**Laureate:** Erwin Neher  
+**Nobel Prize year:** 1991
+**Laureate:** Erwin Neher
 **Nobel-recognized contribution:** for their discoveries concerning the function of single ion channels in cells
+
+**Subfield:** Medical Technology and Research Methods
+
+> **Why this matters:** Many medical breakthroughs began when someone invented a better way to measure what the body was doing.
+>
+> As your mentor, ask: What does the instrument actually measure, and what assumptions connect that measurement to a biological conclusion?
 
 ## Read and connect
 

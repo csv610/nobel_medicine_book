@@ -1,8 +1,14 @@
 # Julius Wagner-Jauregg: Nobel Medicine, 1927
 
-**Nobel Prize year:** 1927  
-**Laureate:** Julius Wagner-Jauregg  
+**Nobel Prize year:** 1927
+**Laureate:** Julius Wagner-Jauregg
 **Nobel-recognized contribution:** for his discovery of the therapeutic value of inoculation against general paralysis
+
+**Subfield:** Therapeutics, Surgery, and Public Health
+
+> **Why this matters:** A dramatic treatment story is only the beginning; careful comparisons reveal whether a therapy truly helps more people than it harms.
+
+> As your mentor, ask: Who was compared with whom, what benefit was measured, what harms were tracked, and who was left out?
 
 ## Read and connect
 

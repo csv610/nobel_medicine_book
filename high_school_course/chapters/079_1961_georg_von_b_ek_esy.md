@@ -1,8 +1,14 @@
 # Georg von B'ek'esy: Nobel Medicine, 1961
 
-**Nobel Prize year:** 1961  
-**Laureate:** Georg von B'ek'esy  
+**Nobel Prize year:** 1961
+**Laureate:** Georg von B'ek'esy
 **Nobel-recognized contribution:** for his discoveries of the physical mechanism of stimulation within the cochlea
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

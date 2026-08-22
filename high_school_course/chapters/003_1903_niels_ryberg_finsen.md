@@ -1,8 +1,14 @@
 # Niels Ryberg Finsen: Nobel Medicine, 1903
 
-**Nobel Prize year:** 1903  
-**Laureate:** Niels Ryberg Finsen  
+**Nobel Prize year:** 1903
+**Laureate:** Niels Ryberg Finsen
 **Nobel-recognized contribution:** for his contribution to the treatment of diseases, especially lupus vulgaris
+
+**Subfield:** Therapeutics, Surgery, and Public Health
+
+> **Why this matters:** Modern medicine often begins with a stubborn puzzle: why did one patient improve while others did not?
+>
+> As your mentor, ask: Who was compared with whom, what benefit was measured, what harms were tracked, and who was left out?
 
 ## Read and connect
 

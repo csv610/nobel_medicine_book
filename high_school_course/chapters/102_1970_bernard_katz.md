@@ -1,8 +1,14 @@
 # Bernard Katz: Nobel Medicine, 1970
 
-**Nobel Prize year:** 1970  
-**Laureate:** Bernard Katz  
+**Nobel Prize year:** 1970
+**Laureate:** Bernard Katz
 **Nobel-recognized contribution:** for their discoveries concerning the humoral transmittors in nerve terminals and the mechanism for their storage, release and inactivation
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Your brain does not receive a finished picture or sound; it builds an experience from streams of electrical and chemical signals.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

@@ -1,8 +1,14 @@
 # Harold E. Varmus: Nobel Medicine, 1989
 
-**Nobel Prize year:** 1989  
-**Laureate:** Harold E. Varmus  
+**Nobel Prize year:** 1989
+**Laureate:** Harold E. Varmus
 **Nobel-recognized contribution:** for their discovery that oncogenes arise from proto-oncogenes
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** A tiny change in genetic information can alter an entire organism—and sometimes reveal a rule shared by all life.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

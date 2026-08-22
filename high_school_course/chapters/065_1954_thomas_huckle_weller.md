@@ -1,8 +1,14 @@
 # Thomas Huckle Weller: Nobel Medicine, 1954
 
-**Nobel Prize year:** 1954  
-**Laureate:** Thomas Huckle Weller  
+**Nobel Prize year:** 1954
+**Laureate:** Thomas Huckle Weller
 **Nobel-recognized contribution:** for their discovery of the ability of poliomyelitis virus to grow in cultures of various types of tissue
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

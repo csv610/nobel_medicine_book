@@ -1,8 +1,14 @@
 # Emil Theodor Kocher: Nobel Medicine, 1909
 
-**Nobel Prize year:** 1909  
-**Laureate:** Emil Theodor Kocher  
+**Nobel Prize year:** 1909
+**Laureate:** Emil Theodor Kocher
 **Nobel-recognized contribution:** for his work on the physiology, pathology and surgery of the thyroid gland
+
+**Subfield:** Therapeutics, Surgery, and Public Health
+
+> **Why this matters:** Modern medicine often begins with a stubborn puzzle: why did one patient improve while others did not?
+>
+> As your mentor, ask: Who was compared with whom, what benefit was measured, what harms were tracked, and who was left out?
 
 ## Read and connect
 

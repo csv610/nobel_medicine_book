@@ -1,8 +1,14 @@
 # Max Theiler: Nobel Medicine, 1951
 
-**Nobel Prize year:** 1951  
-**Laureate:** Max Theiler  
+**Nobel Prize year:** 1951
+**Laureate:** Max Theiler
 **Nobel-recognized contribution:** for his discoveries concerning yellow fever and how to combat it
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

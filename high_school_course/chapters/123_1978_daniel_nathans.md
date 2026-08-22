@@ -1,8 +1,14 @@
 # Daniel Nathans: Nobel Medicine, 1978
 
-**Nobel Prize year:** 1978  
-**Laureate:** Daniel Nathans  
+**Nobel Prize year:** 1978
+**Laureate:** Daniel Nathans
 **Nobel-recognized contribution:** for their discovery of restriction enzymes and their application to problems of molecular genetics
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** A tiny change in genetic information can alter an entire organism—and sometimes reveal a rule shared by all life.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

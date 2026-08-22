@@ -1,8 +1,14 @@
 # Charles Nicolle: Nobel Medicine, 1928
 
-**Nobel Prize year:** 1928  
-**Laureate:** Charles Nicolle  
+**Nobel Prize year:** 1928
+**Laureate:** Charles Nicolle
 **Nobel-recognized contribution:** for his work on typhus
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

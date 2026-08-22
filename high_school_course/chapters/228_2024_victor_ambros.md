@@ -1,8 +1,14 @@
 # Victor Ambros: Nobel Medicine, 2024
 
-**Nobel Prize year:** 2024  
-**Laureate:** Victor Ambros  
+**Nobel Prize year:** 2024
+**Laureate:** Victor Ambros
 **Nobel-recognized contribution:** for the discovery of microRNA and its role in post-transcriptional gene regulation
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** Almost every cell in your body carries the same DNA, yet cells can become bone, nerve, or muscle by reading different instructions.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

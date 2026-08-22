@@ -1,8 +1,14 @@
 # Ant'onio Egas Moniz: Nobel Medicine, 1949
 
-**Nobel Prize year:** 1949  
-**Laureate:** Ant'onio Egas Moniz  
+**Nobel Prize year:** 1949
+**Laureate:** Ant'onio Egas Moniz
 **Nobel-recognized contribution:** for his discovery of the functional organization of the interbrain as a coordinator of the activities of the internal organs; and for his discovery of the therapeutic value of leucotomy in certain psychoses
+
+**Subfield:** Therapeutics, Surgery, and Public Health
+
+> **Why this matters:** A dramatic treatment story is only the beginning; careful comparisons reveal whether a therapy truly helps more people than it harms.
+
+> As your mentor, ask: Who was compared with whom, what benefit was measured, what harms were tracked, and who was left out?
 
 ## Read and connect
 

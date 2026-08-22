@@ -1,8 +1,14 @@
 # Torsten N. Wiesel: Nobel Medicine, 1981
 
-**Nobel Prize year:** 1981  
-**Laureate:** Torsten N. Wiesel  
+**Nobel Prize year:** 1981
+**Laureate:** Torsten N. Wiesel
 **Nobel-recognized contribution:** for his discoveries concerning the functional specialization of the cerebral hemispheres; and for their discoveries concerning information processing in the visual system
+
+**Subfield:** Cell Biology and Molecular Systems
+
+> **Why this matters:** A cell is not a featureless drop of fluid: it sorts cargo, builds molecules, repairs damage, and communicates through molecular machines.
+>
+> As your mentor, ask: What structure or molecule is doing the work, and how would you know that it—not a neighboring process—is responsible?
 
 ## Read and connect
 

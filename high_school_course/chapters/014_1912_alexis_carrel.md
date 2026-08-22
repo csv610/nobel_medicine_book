@@ -1,8 +1,14 @@
 # Alexis Carrel: Nobel Medicine, 1912
 
-**Nobel Prize year:** 1912  
-**Laureate:** Alexis Carrel  
+**Nobel Prize year:** 1912
+**Laureate:** Alexis Carrel
 **Nobel-recognized contribution:** for his work on vascular suture and the transplantation of blood vessels and organs
+
+**Subfield:** Medical Technology and Research Methods
+
+> **Why this matters:** Many medical breakthroughs began when someone invented a better way to measure what the body was doing.
+
+> As your mentor, ask: What does the instrument actually measure, and what assumptions connect that measurement to a biological conclusion?
 
 ## Read and connect
 

@@ -1,6 +1,6 @@
 # Nobel Medicine: A High-School Course
 
-This course lets students explore the work of every laureate documented in the book. It contains **232 individual chapters**, one for each Nobel Prize laureate, so students can choose topics that match their interests.
+This course is designed as a mentored exploration of the work of every laureate documented in the book. It contains **232 individual chapters**, one for each Nobel Prize laureate, so students can choose topics that match their interests without losing the guidance of a clear learning path.
 
 ## Audience and format
 
@@ -13,23 +13,26 @@ The projects are designed for classrooms, clubs, or independent study. They do n
 
 ## Start here
 
-1. Read [foundations](foundations.md).
-2. Read [safety and ethics](safety_ethics.md).
-3. Use the [assessment guide](assessment.md) for any selected chapter.
-4. Browse the [232 laureate chapters](chapters/).
+1. Read the [mentor guide](mentor_guide.md) to see the subfields and how to introduce a chapter.
+2. Read [foundations](foundations.md).
+3. Read [safety and ethics](safety_ethics.md).
+4. Use the [assessment guide](assessment.md) for any selected chapter.
+5. Browse the [subfield groups](subfields/) or the complete [232 laureate chapters](chapters/).
 
-Every laureate chapter includes the award year, the Nobel-recognized contribution, a link to the corresponding full book chapter, a safe project, a report requirement, reflection questions, and an official Nobel source.
+Every laureate chapter begins with a “Why this matters” curiosity hook and a mentor question. It then includes the award year, subfield, Nobel-recognized contribution, a link to the corresponding full book chapter, a safe project, a report requirement, reflection questions, and an official Nobel source.
 
 ## Choosing a path
 
-Students may select chapters by person, year, topic, or project type. Teachers can assign a common theme while allowing each student to choose a laureate within that theme. Suggested themes include:
+Students may select chapters by person, year, subfield, or project type. Teachers can assign a common theme while allowing each student to choose a laureate within that theme. The course uses eight browsing groups:
 
-- infection, immunity, and vaccines
-- cells, genes, and development
-- the brain, senses, and behavior
-- metabolism, hormones, and homeostasis
-- treatments, evidence, and public health
-- human origins, ethics, and society
+- [Infection, Immunity, and Vaccines](subfields/infection_immunity.md)
+- [Genetics, Genomics, and Development](subfields/genetics_development.md)
+- [Neuroscience, Senses, and Behavior](subfields/neuroscience_behavior.md)
+- [Physiology, Metabolism, and Endocrinology](subfields/physiology_metabolism.md)
+- [Cell Biology and Molecular Systems](subfields/cell_molecular.md)
+- [Therapeutics, Surgery, and Public Health](subfields/therapeutics_public_health.md)
+- [Reproduction, Aging, and Human Origins](subfields/reproduction_origins.md)
+- [Medical Technology and Research Methods](subfields/technology_methods.md)
 
 ## Source policy
 

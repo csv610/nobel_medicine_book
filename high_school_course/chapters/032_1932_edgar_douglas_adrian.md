@@ -1,8 +1,14 @@
 # Edgar Douglas Adrian: Nobel Medicine, 1932
 
-**Nobel Prize year:** 1932  
-**Laureate:** Edgar Douglas Adrian  
+**Nobel Prize year:** 1932
+**Laureate:** Edgar Douglas Adrian
 **Nobel-recognized contribution:** for their discoveries regarding the functions of neurons
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Your brain does not receive a finished picture or sound; it builds an experience from streams of electrical and chemical signals.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

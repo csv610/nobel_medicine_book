@@ -1,8 +1,14 @@
 # Edward Adelbert Doisy: Nobel Medicine, 1943
 
-**Nobel Prize year:** 1943  
-**Laureate:** Edward Adelbert Doisy  
+**Nobel Prize year:** 1943
+**Laureate:** Edward Adelbert Doisy
 **Nobel-recognized contribution:** for his discovery of the role of vitamin K in the physiology of coagulation of the blood
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

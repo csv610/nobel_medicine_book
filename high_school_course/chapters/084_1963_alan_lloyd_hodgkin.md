@@ -1,8 +1,14 @@
 # Alan Lloyd Hodgkin: Nobel Medicine, 1963
 
-**Nobel Prize year:** 1963  
-**Laureate:** Alan Lloyd Hodgkin  
+**Nobel Prize year:** 1963
+**Laureate:** Alan Lloyd Hodgkin
 **Nobel-recognized contribution:** for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Your brain does not receive a finished picture or sound; it builds an experience from streams of electrical and chemical signals.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

@@ -1,8 +1,14 @@
 # Henrik Carl Peter Dam: Nobel Medicine, 1943
 
-**Nobel Prize year:** 1943  
-**Laureate:** Henrik Carl Peter Dam  
+**Nobel Prize year:** 1943
+**Laureate:** Henrik Carl Peter Dam
 **Nobel-recognized contribution:** for his discovery of the role of vitamin K in the physiology of coagulation of the blood
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

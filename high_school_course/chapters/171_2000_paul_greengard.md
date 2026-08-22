@@ -1,8 +1,14 @@
 # Paul Greengard: Nobel Medicine, 2000
 
-**Nobel Prize year:** 2000  
-**Laureate:** Paul Greengard  
+**Nobel Prize year:** 2000
+**Laureate:** Paul Greengard
 **Nobel-recognized contribution:** for their work concerning signal transduction in the nervous system
+
+**Subfield:** Cell Biology and Molecular Systems
+
+> **Why this matters:** The smallest structures in your body can operate like factories, switches, address labels, and self-correcting systems.
+>
+> As your mentor, ask: What structure or molecule is doing the work, and how would you know that it—not a neighboring process—is responsible?
 
 ## Read and connect
 

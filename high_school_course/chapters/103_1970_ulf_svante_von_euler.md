@@ -1,8 +1,14 @@
 # Ulf Svante von Euler: Nobel Medicine, 1970
 
-**Nobel Prize year:** 1970  
-**Laureate:** Ulf Svante von Euler  
+**Nobel Prize year:** 1970
+**Laureate:** Ulf Svante von Euler
 **Nobel-recognized contribution:** for their discoveries concerning the humoral transmittors in nerve terminals and the mechanism for their storage, release and inactivation
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

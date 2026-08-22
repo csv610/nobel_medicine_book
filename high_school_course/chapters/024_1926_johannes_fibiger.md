@@ -1,8 +1,14 @@
 # Johannes Fibiger: Nobel Medicine, 1926
 
-**Nobel Prize year:** 1926  
-**Laureate:** Johannes Fibiger  
+**Nobel Prize year:** 1926
+**Laureate:** Johannes Fibiger
 **Nobel-recognized contribution:** for his discovery of the Spiroptera carcinoma
+
+**Subfield:** Cell Biology and Molecular Systems
+
+> **Why this matters:** A cell is not a featureless drop of fluid: it sorts cargo, builds molecules, repairs damage, and communicates through molecular machines.
+>
+> As your mentor, ask: What structure or molecule is doing the work, and how would you know that it—not a neighboring process—is responsible?
 
 ## Read and connect
 

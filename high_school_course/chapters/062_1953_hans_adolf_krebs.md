@@ -1,8 +1,14 @@
 # Hans Adolf Krebs: Nobel Medicine, 1953
 
-**Nobel Prize year:** 1953  
-**Laureate:** Hans Adolf Krebs  
+**Nobel Prize year:** 1953
+**Laureate:** Hans Adolf Krebs
 **Nobel-recognized contribution:** for his discovery of the citric acid cycle; and for his discovery of co-enzyme A and its importance for intermediary metabolism
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** A heartbeat, a thought, and a sprint all depend on chemical reactions that turn materials into usable energy and controlled signals.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

@@ -1,8 +1,14 @@
 # E. Donnall Thomas: Nobel Medicine, 1990
 
-**Nobel Prize year:** 1990  
-**Laureate:** E. Donnall Thomas  
+**Nobel Prize year:** 1990
+**Laureate:** E. Donnall Thomas
 **Nobel-recognized contribution:** for their discoveries concerning organ and cell transplantation in the treatment of human disease
+
+**Subfield:** Reproduction, Aging, and Human Origins
+
+> **Why this matters:** Questions about reproduction and human origins connect laboratory evidence to identity, family, history, and ethics.
+>
+> As your mentor, ask: What can the evidence show about biology, and what conclusions would go beyond the evidence about people or identity?
 
 ## Read and connect
 

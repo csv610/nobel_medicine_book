@@ -1,8 +1,14 @@
 # Stanley Cohen: Nobel Medicine, 1986
 
-**Nobel Prize year:** 1986  
-**Laureate:** Stanley Cohen  
+**Nobel Prize year:** 1986
+**Laureate:** Stanley Cohen
 **Nobel-recognized contribution:** for their discoveries of growth factors
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** A heartbeat, a thought, and a sprint all depend on chemical reactions that turn materials into usable energy and controlled signals.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

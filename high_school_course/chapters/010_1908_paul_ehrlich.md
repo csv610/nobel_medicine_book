@@ -1,8 +1,14 @@
 # Paul Ehrlich: Nobel Medicine, 1908
 
-**Nobel Prize year:** 1908  
-**Laureate:** Paul Ehrlich  
+**Nobel Prize year:** 1908
+**Laureate:** Paul Ehrlich
 **Nobel-recognized contribution:** for their work on immunity
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

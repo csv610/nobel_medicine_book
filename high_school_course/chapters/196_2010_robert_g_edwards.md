@@ -1,8 +1,14 @@
 # Robert G. Edwards: Nobel Medicine, 2010
 
-**Nobel Prize year:** 2010  
-**Laureate:** Robert G. Edwards  
+**Nobel Prize year:** 2010
+**Laureate:** Robert G. Edwards
 **Nobel-recognized contribution:** for the development of in vitro fertilization
+
+**Subfield:** Reproduction, Aging, and Human Origins
+
+> **Why this matters:** The story of being human is written across generations—in cells, genomes, bodies, and the environments that shape them.
+>
+> As your mentor, ask: What can the evidence show about biology, and what conclusions would go beyond the evidence about people or identity?
 
 ## Read and connect
 

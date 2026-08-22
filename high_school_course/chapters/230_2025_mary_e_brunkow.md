@@ -1,8 +1,14 @@
 # Mary E. Brunkow: Nobel Medicine, 2025
 
-**Nobel Prize year:** 2025  
-**Laureate:** Mary E. Brunkow  
+**Nobel Prize year:** 2025
+**Laureate:** Mary E. Brunkow
 **Nobel-recognized contribution:** for their discoveries concerning peripheral immune tolerance
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

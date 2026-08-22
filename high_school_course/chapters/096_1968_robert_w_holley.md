@@ -1,8 +1,14 @@
 # Robert W. Holley: Nobel Medicine, 1968
 
-**Nobel Prize year:** 1968  
-**Laureate:** Robert W. Holley  
+**Nobel Prize year:** 1968
+**Laureate:** Robert W. Holley
 **Nobel-recognized contribution:** for their interpretation of the genetic code and its function in protein synthesis
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** Almost every cell in your body carries the same DNA, yet cells can become bone, nerve, or muscle by reading different instructions.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

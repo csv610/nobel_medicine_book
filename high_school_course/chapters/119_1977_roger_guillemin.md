@@ -1,8 +1,14 @@
 # Roger Guillemin: Nobel Medicine, 1977
 
-**Nobel Prize year:** 1977  
-**Laureate:** Roger Guillemin  
+**Nobel Prize year:** 1977
+**Laureate:** Roger Guillemin
 **Nobel-recognized contribution:** for their discoveries concerning the peptide hormone production of the brain
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

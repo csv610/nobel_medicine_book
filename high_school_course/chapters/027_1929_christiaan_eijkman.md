@@ -1,8 +1,14 @@
 # Christiaan Eijkman: Nobel Medicine, 1929
 
-**Nobel Prize year:** 1929  
-**Laureate:** Christiaan Eijkman  
+**Nobel Prize year:** 1929
+**Laureate:** Christiaan Eijkman
 **Nobel-recognized contribution:** for their discoveries concerning vitamins
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** Your body is running thousands of feedback systems right now, even while you sit still and read.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

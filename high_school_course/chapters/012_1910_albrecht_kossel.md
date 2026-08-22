@@ -1,8 +1,14 @@
 # Albrecht Kossel: Nobel Medicine, 1910
 
-**Nobel Prize year:** 1910  
-**Laureate:** Albrecht Kossel  
+**Nobel Prize year:** 1910
+**Laureate:** Albrecht Kossel
 **Nobel-recognized contribution:** in recognition of the contributions to our knowledge of cell chemistry
+
+**Subfield:** Cell Biology and Molecular Systems
+
+> **Why this matters:** A cell is not a featureless drop of fluid: it sorts cargo, builds molecules, repairs damage, and communicates through molecular machines.
+>
+> As your mentor, ask: What structure or molecule is doing the work, and how would you know that it—not a neighboring process—is responsible?
 
 ## Read and connect
 

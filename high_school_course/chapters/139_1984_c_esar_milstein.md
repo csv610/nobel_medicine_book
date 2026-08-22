@@ -1,8 +1,14 @@
 # C'esar Milstein: Nobel Medicine, 1984
 
-**Nobel Prize year:** 1984  
-**Laureate:** C'esar Milstein  
+**Nobel Prize year:** 1984
+**Laureate:** C'esar Milstein
 **Nobel-recognized contribution:** for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

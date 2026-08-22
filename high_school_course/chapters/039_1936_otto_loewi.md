@@ -1,8 +1,14 @@
 # Otto Loewi: Nobel Medicine, 1936
 
-**Nobel Prize year:** 1936  
-**Laureate:** Otto Loewi  
+**Nobel Prize year:** 1936
+**Laureate:** Otto Loewi
 **Nobel-recognized contribution:** for their discoveries relating to chemical transmission of nerve impulses
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

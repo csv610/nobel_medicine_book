@@ -1,8 +1,14 @@
 # Paul C. Lauterbur: Nobel Medicine, 2003
 
-**Nobel Prize year:** 2003  
-**Laureate:** Paul C. Lauterbur  
+**Nobel Prize year:** 2003
+**Laureate:** Paul C. Lauterbur
 **Nobel-recognized contribution:** for their discoveries concerning magnetic resonance imaging
+
+**Subfield:** Medical Technology and Research Methods
+
+> **Why this matters:** Many medical breakthroughs began when someone invented a better way to measure what the body was doing.
+
+> As your mentor, ask: What does the instrument actually measure, and what assumptions connect that measurement to a biological conclusion?
 
 ## Read and connect
 

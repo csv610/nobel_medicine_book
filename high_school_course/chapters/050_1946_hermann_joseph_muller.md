@@ -1,8 +1,14 @@
 # Hermann Joseph Muller: Nobel Medicine, 1946
 
-**Nobel Prize year:** 1946  
-**Laureate:** Hermann Joseph Muller  
+**Nobel Prize year:** 1946
+**Laureate:** Hermann Joseph Muller
 **Nobel-recognized contribution:** for the discovery of the production of mutations by means of X-ray irradiation
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** Almost every cell in your body carries the same DNA, yet cells can become bone, nerve, or muscle by reading different instructions.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

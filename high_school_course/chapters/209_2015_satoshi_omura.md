@@ -1,8 +1,14 @@
 # Satoshi =Omura: Nobel Medicine, 2015
 
-**Nobel Prize year:** 2015  
-**Laureate:** Satoshi =Omura  
+**Nobel Prize year:** 2015
+**Laureate:** Satoshi =Omura
 **Nobel-recognized contribution:** for their discoveries concerning a novel therapy against infections caused by roundworm parasites; and for her discoveries concerning a novel therapy against malaria
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

@@ -1,8 +1,14 @@
 # Christian de Duve: Nobel Medicine, 1974
 
-**Nobel Prize year:** 1974  
-**Laureate:** Christian de Duve  
+**Nobel Prize year:** 1974
+**Laureate:** Christian de Duve
 **Nobel-recognized contribution:** for their discoveries concerning the structural and functional organization of the cell
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** A heartbeat, a thought, and a sprint all depend on chemical reactions that turn materials into usable energy and controlled signals.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

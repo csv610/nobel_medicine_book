@@ -1,8 +1,14 @@
 # Jeffrey C. Hall: Nobel Medicine, 2017
 
-**Nobel Prize year:** 2017  
-**Laureate:** Jeffrey C. Hall  
+**Nobel Prize year:** 2017
+**Laureate:** Jeffrey C. Hall
 **Nobel-recognized contribution:** for their discoveries of molecular mechanisms controlling circadian rhythm
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Your brain does not receive a finished picture or sound; it builds an experience from streams of electrical and chemical signals.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

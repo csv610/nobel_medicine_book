@@ -1,8 +1,14 @@
 # Sydney Brenner: Nobel Medicine, 2002
 
-**Nobel Prize year:** 2002  
-**Laureate:** Sydney Brenner  
+**Nobel Prize year:** 2002
+**Laureate:** Sydney Brenner
 **Nobel-recognized contribution:** for their discoveries concerning genetic regulation of organ development and programmed cell death
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** Almost every cell in your body carries the same DNA, yet cells can become bone, nerve, or muscle by reading different instructions.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

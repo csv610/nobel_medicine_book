@@ -1,8 +1,14 @@
 # Peter Brian Medawar: Nobel Medicine, 1960
 
-**Nobel Prize year:** 1960  
-**Laureate:** Peter Brian Medawar  
+**Nobel Prize year:** 1960
+**Laureate:** Peter Brian Medawar
 **Nobel-recognized contribution:** for their discovery of acquired immunological tolerance
+
+**Subfield:** Cell Biology and Molecular Systems
+
+> **Why this matters:** A cell is not a featureless drop of fluid: it sorts cargo, builds molecules, repairs damage, and communicates through molecular machines.
+>
+> As your mentor, ask: What structure or molecule is doing the work, and how would you know that it—not a neighboring process—is responsible?
 
 ## Read and connect
 

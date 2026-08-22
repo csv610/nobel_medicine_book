@@ -1,8 +1,14 @@
 # Andrew Fielding Huxley: Nobel Medicine, 1963
 
-**Nobel Prize year:** 1963  
-**Laureate:** Andrew Fielding Huxley  
+**Nobel Prize year:** 1963
+**Laureate:** Andrew Fielding Huxley
 **Nobel-recognized contribution:** for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

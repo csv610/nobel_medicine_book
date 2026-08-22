@@ -1,8 +1,14 @@
 # G"unter Blobel: Nobel Medicine, 1999
 
-**Nobel Prize year:** 1999  
-**Laureate:** G"unter Blobel  
+**Nobel Prize year:** 1999
+**Laureate:** G"unter Blobel
 **Nobel-recognized contribution:** for the discovery that proteins have intrinsic signals that govern their transport and localisation in the cell
+
+**Subfield:** Cell Biology and Molecular Systems
+
+> **Why this matters:** The smallest structures in your body can operate like factories, switches, address labels, and self-correcting systems.
+>
+> As your mentor, ask: What structure or molecule is doing the work, and how would you know that it—not a neighboring process—is responsible?
 
 ## Read and connect
 

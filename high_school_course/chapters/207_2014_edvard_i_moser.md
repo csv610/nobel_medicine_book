@@ -1,8 +1,14 @@
 # Edvard I. Moser: Nobel Medicine, 2014
 
-**Nobel Prize year:** 2014  
-**Laureate:** Edvard I. Moser  
+**Nobel Prize year:** 2014
+**Laureate:** Edvard I. Moser
 **Nobel-recognized contribution:** for their discoveries of cells that constitute a positioning system in the brain
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

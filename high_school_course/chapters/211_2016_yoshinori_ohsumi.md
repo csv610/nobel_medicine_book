@@ -1,8 +1,14 @@
 # Yoshinori Ohsumi: Nobel Medicine, 2016
 
-**Nobel Prize year:** 2016  
-**Laureate:** Yoshinori Ohsumi  
+**Nobel Prize year:** 2016
+**Laureate:** Yoshinori Ohsumi
 **Nobel-recognized contribution:** for his discoveries of mechanisms for autophagy
+
+**Subfield:** Cell Biology and Molecular Systems
+
+> **Why this matters:** A cell is not a featureless drop of fluid: it sorts cargo, builds molecules, repairs damage, and communicates through molecular machines.
+
+> As your mentor, ask: What structure or molecule is doing the work, and how would you know that it—not a neighboring process—is responsible?
 
 ## Read and connect
 

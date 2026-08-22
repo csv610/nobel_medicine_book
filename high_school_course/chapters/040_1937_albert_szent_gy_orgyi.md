@@ -1,8 +1,14 @@
 # Albert Szent-Gy"orgyi: Nobel Medicine, 1937
 
-**Nobel Prize year:** 1937  
-**Laureate:** Albert Szent-Gy"orgyi  
+**Nobel Prize year:** 1937
+**Laureate:** Albert Szent-Gy"orgyi
 **Nobel-recognized contribution:** for his discoveries in connection with the biological combustion of vitamins
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** A heartbeat, a thought, and a sprint all depend on chemical reactions that turn materials into usable energy and controlled signals.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

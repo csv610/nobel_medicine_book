@@ -1,8 +1,14 @@
 # Daniel Bovet: Nobel Medicine, 1957
 
-**Nobel Prize year:** 1957  
-**Laureate:** Daniel Bovet  
+**Nobel Prize year:** 1957
+**Laureate:** Daniel Bovet
 **Nobel-recognized contribution:** for his discoveries relating to synthetic compounds that inhibit the effects of certain neurotransmitters
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

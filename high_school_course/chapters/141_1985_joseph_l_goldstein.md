@@ -1,8 +1,14 @@
 # Joseph L. Goldstein: Nobel Medicine, 1985
 
-**Nobel Prize year:** 1985  
-**Laureate:** Joseph L. Goldstein  
+**Nobel Prize year:** 1985
+**Laureate:** Joseph L. Goldstein
 **Nobel-recognized contribution:** for their discoveries concerning the regulation of cholesterol metabolism
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** Your body is running thousands of feedback systems right now, even while you sit still and read.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

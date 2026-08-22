@@ -1,8 +1,14 @@
 # Sune K. Bergstr"om: Nobel Medicine, 1982
 
-**Nobel Prize year:** 1982  
-**Laureate:** Sune K. Bergstr"om  
+**Nobel Prize year:** 1982
+**Laureate:** Sune K. Bergstr"om
 **Nobel-recognized contribution:** for their discoveries concerning prostaglandins and related biologically active substances
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** Your body is running thousands of feedback systems right now, even while you sit still and read.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

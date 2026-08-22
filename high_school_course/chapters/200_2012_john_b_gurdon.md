@@ -1,8 +1,14 @@
 # John B. Gurdon: Nobel Medicine, 2012
 
-**Nobel Prize year:** 2012  
-**Laureate:** John B. Gurdon  
+**Nobel Prize year:** 2012
+**Laureate:** John B. Gurdon
 **Nobel-recognized contribution:** for the discovery that mature cells can be reprogrammed to become pluripotent
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** Almost every cell in your body carries the same DNA, yet cells can become bone, nerve, or muscle by reading different instructions.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

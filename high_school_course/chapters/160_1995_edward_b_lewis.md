@@ -1,8 +1,14 @@
 # Edward B. Lewis: Nobel Medicine, 1995
 
-**Nobel Prize year:** 1995  
-**Laureate:** Edward B. Lewis  
+**Nobel Prize year:** 1995
+**Laureate:** Edward B. Lewis
 **Nobel-recognized contribution:** for their discoveries concerning the genetic control of early embryonic development
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** Almost every cell in your body carries the same DNA, yet cells can become bone, nerve, or muscle by reading different instructions.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

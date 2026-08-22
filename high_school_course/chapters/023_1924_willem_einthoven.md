@@ -1,8 +1,14 @@
 # Willem Einthoven: Nobel Medicine, 1924
 
-**Nobel Prize year:** 1924  
-**Laureate:** Willem Einthoven  
+**Nobel Prize year:** 1924
+**Laureate:** Willem Einthoven
 **Nobel-recognized contribution:** for his discovery of the mechanism of the electrocardiogram
+
+**Subfield:** Medical Technology and Research Methods
+
+> **Why this matters:** A tool does more than produce a picture or number: it changes which questions scientists can ask.
+>
+> As your mentor, ask: What does the instrument actually measure, and what assumptions connect that measurement to a biological conclusion?
 
 ## Read and connect
 

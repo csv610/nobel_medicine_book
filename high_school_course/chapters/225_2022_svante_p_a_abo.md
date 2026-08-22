@@ -1,8 +1,14 @@
 # Svante P"a"abo: Nobel Medicine, 2022
 
-**Nobel Prize year:** 2022  
-**Laureate:** Svante P"a"abo  
+**Nobel Prize year:** 2022
+**Laureate:** Svante P"a"abo
 **Nobel-recognized contribution:** for his discoveries concerning the genomes of extinct hominins and human evolution
+
+**Subfield:** Reproduction, Aging, and Human Origins
+
+> **Why this matters:** Questions about reproduction and human origins connect laboratory evidence to identity, family, history, and ethics.
+>
+> As your mentor, ask: What can the evidence show about biology, and what conclusions would go beyond the evidence about people or identity?
 
 ## Read and connect
 

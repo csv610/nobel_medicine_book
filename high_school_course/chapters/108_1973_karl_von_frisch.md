@@ -1,8 +1,14 @@
 # Karl von Frisch: Nobel Medicine, 1973
 
-**Nobel Prize year:** 1973  
-**Laureate:** Karl von Frisch  
+**Nobel Prize year:** 1973
+**Laureate:** Karl von Frisch
 **Nobel-recognized contribution:** for their discoveries concerning organization and elicitation of individual and group behaviour
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Your brain does not receive a finished picture or sound; it builds an experience from streams of electrical and chemical signals.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

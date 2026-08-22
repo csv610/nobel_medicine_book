@@ -1,8 +1,14 @@
 # Andr'e Lwoff: Nobel Medicine, 1965
 
-**Nobel Prize year:** 1965  
-**Laureate:** Andr'e Lwoff  
+**Nobel Prize year:** 1965
+**Laureate:** Andr'e Lwoff
 **Nobel-recognized contribution:** for their discoveries concerning genetic control of enzyme and virus synthesis
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

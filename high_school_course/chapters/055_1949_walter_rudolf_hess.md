@@ -1,8 +1,14 @@
 # Walter Rudolf Hess: Nobel Medicine, 1949
 
-**Nobel Prize year:** 1949  
-**Laureate:** Walter Rudolf Hess  
+**Nobel Prize year:** 1949
+**Laureate:** Walter Rudolf Hess
 **Nobel-recognized contribution:** for his discovery of the functional organization of the interbrain as a coordinator of the activities of the internal organs; and for his discovery of the therapeutic value of leucotomy in certain psychoses
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Your brain does not receive a finished picture or sound; it builds an experience from streams of electrical and chemical signals.
+
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

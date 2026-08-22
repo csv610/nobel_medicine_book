@@ -1,8 +1,14 @@
 # Charles M. Rice: Nobel Medicine, 2020
 
-**Nobel Prize year:** 2020  
-**Laureate:** Charles M. Rice  
+**Nobel Prize year:** 2020
+**Laureate:** Charles M. Rice
 **Nobel-recognized contribution:** for their discovery of Hepatitis C virus
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

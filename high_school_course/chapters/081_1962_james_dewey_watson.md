@@ -1,8 +1,14 @@
 # James Dewey Watson: Nobel Medicine, 1962
 
-**Nobel Prize year:** 1962  
-**Laureate:** James Dewey Watson  
+**Nobel Prize year:** 1962
+**Laureate:** James Dewey Watson
 **Nobel-recognized contribution:** for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** A tiny change in genetic information can alter an entire organism—and sometimes reveal a rule shared by all life.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

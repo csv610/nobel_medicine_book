@@ -1,8 +1,14 @@
 # J. Robin Warren: Nobel Medicine, 2005
 
-**Nobel Prize year:** 2005  
-**Laureate:** J. Robin Warren  
+**Nobel Prize year:** 2005
+**Laureate:** J. Robin Warren
 **Nobel-recognized contribution:** for their discovery of the bacterium Helicobacter pylori and its role in gastritis and peptic ulcer disease
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

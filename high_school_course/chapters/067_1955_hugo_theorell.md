@@ -1,8 +1,14 @@
 # Hugo Theorell: Nobel Medicine, 1955
 
-**Nobel Prize year:** 1955  
-**Laureate:** Hugo Theorell  
+**Nobel Prize year:** 1955
+**Laureate:** Hugo Theorell
 **Nobel-recognized contribution:** for his discoveries concerning the nature and mode of action of oxidation enzymes
+
+**Subfield:** Physiology, Metabolism, and Endocrinology
+
+> **Why this matters:** Your body is running thousands of feedback systems right now, even while you sit still and read.
+>
+> As your mentor, ask: What variable is being regulated, what is the sensor, and what feedback could create delay or overshoot?
 
 ## Read and connect
 

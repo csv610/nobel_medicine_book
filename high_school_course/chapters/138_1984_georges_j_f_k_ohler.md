@@ -1,8 +1,14 @@
 # Georges J.F. K"ohler: Nobel Medicine, 1984
 
-**Nobel Prize year:** 1984  
-**Laureate:** Georges J.F. K"ohler  
+**Nobel Prize year:** 1984
+**Laureate:** Georges J.F. K"ohler
 **Nobel-recognized contribution:** for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

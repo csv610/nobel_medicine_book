@@ -1,8 +1,14 @@
 # Jack W. Szostak: Nobel Medicine, 2009
 
-**Nobel Prize year:** 2009  
-**Laureate:** Jack W. Szostak  
+**Nobel Prize year:** 2009
+**Laureate:** Jack W. Szostak
 **Nobel-recognized contribution:** for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** A tiny change in genetic information can alter an entire organism—and sometimes reveal a rule shared by all life.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 

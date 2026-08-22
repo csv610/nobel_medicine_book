@@ -1,8 +1,14 @@
 # Ardem Patapoutian: Nobel Medicine, 2021
 
-**Nobel Prize year:** 2021  
-**Laureate:** Ardem Patapoutian  
+**Nobel Prize year:** 2021
+**Laureate:** Ardem Patapoutian
 **Nobel-recognized contribution:** for their discoveries of receptors for temperature and touch
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Your brain does not receive a finished picture or sound; it builds an experience from streams of electrical and chemical signals.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

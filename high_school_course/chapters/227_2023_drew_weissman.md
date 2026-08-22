@@ -1,8 +1,14 @@
 # Drew Weissman: Nobel Medicine, 2023
 
-**Nobel Prize year:** 2023  
-**Laureate:** Drew Weissman  
+**Nobel Prize year:** 2023
+**Laureate:** Drew Weissman
 **Nobel-recognized contribution:** for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

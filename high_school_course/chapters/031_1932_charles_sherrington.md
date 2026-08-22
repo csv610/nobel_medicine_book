@@ -1,8 +1,14 @@
 # Charles Sherrington: Nobel Medicine, 1932
 
-**Nobel Prize year:** 1932  
-**Laureate:** Charles Sherrington  
+**Nobel Prize year:** 1932
+**Laureate:** Charles Sherrington
 **Nobel-recognized contribution:** for their discoveries regarding the functions of neurons
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

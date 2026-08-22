@@ -1,8 +1,14 @@
 # Salvador E. Luria: Nobel Medicine, 1969
 
-**Nobel Prize year:** 1969  
-**Laureate:** Salvador E. Luria  
+**Nobel Prize year:** 1969
+**Laureate:** Salvador E. Luria
 **Nobel-recognized contribution:** for their discoveries concerning the replication mechanism and the genetic structure of viruses
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** Imagine trying to stop an epidemic before anyone could see the agent under a microscope.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

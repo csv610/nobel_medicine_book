@@ -1,8 +1,14 @@
 # Allvar Gullstrand: Nobel Medicine, 1911
 
-**Nobel Prize year:** 1911  
-**Laureate:** Allvar Gullstrand  
+**Nobel Prize year:** 1911
+**Laureate:** Allvar Gullstrand
 **Nobel-recognized contribution:** for his work on the dioptrics of the eye
+
+**Subfield:** Neuroscience, Senses, and Behavior
+
+> **Why this matters:** Every sensation, memory, and movement depends on cells communicating across distances smaller than a grain of dust.
+>
+> As your mentor, ask: What signal was measured, where was it measured, and how could expectation or attention change the result?
 
 ## Read and connect
 

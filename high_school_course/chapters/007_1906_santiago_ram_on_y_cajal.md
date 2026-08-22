@@ -1,8 +1,14 @@
 # Santiago Ram'on y Cajal: Nobel Medicine, 1906
 
-**Nobel Prize year:** 1906  
-**Laureate:** Santiago Ram'on y Cajal  
+**Nobel Prize year:** 1906
+**Laureate:** Santiago Ram'on y Cajal
 **Nobel-recognized contribution:** for their work on the nervous system structure
+
+**Subfield:** Cell Biology and Molecular Systems
+
+> **Why this matters:** The smallest structures in your body can operate like factories, switches, address labels, and self-correcting systems.
+>
+> As your mentor, ask: What structure or molecule is doing the work, and how would you know that it—not a neighboring process—is responsible?
 
 ## Read and connect
 

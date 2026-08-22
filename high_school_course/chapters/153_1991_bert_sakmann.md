@@ -1,8 +1,14 @@
 # Bert Sakmann: Nobel Medicine, 1991
 
-**Nobel Prize year:** 1991  
-**Laureate:** Bert Sakmann  
+**Nobel Prize year:** 1991
+**Laureate:** Bert Sakmann
 **Nobel-recognized contribution:** for their discoveries concerning the function of single ion channels in cells
+
+**Subfield:** Medical Technology and Research Methods
+
+> **Why this matters:** A tool does more than produce a picture or number: it changes which questions scientists can ask.
+>
+> As your mentor, ask: What does the instrument actually measure, and what assumptions connect that measurement to a biological conclusion?
 
 ## Read and connect
 

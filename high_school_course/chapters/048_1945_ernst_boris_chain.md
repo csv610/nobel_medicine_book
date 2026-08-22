@@ -1,8 +1,14 @@
 # Ernst Boris Chain: Nobel Medicine, 1945
 
-**Nobel Prize year:** 1945  
-**Laureate:** Ernst Boris Chain  
+**Nobel Prize year:** 1945
+**Laureate:** Ernst Boris Chain
 **Nobel-recognized contribution:** for the discovery of penicillin and its curative effect in various infectious diseases
+
+**Subfield:** Infection, Immunity, and Vaccines
+
+> **Why this matters:** A life-saving defense can begin with something invisible: scientists can infer a microbe or immune response from patterns of illness and protection.
+>
+> As your mentor, ask: What would count as evidence of protection, transmission, or causation—and what alternative explanation must be ruled out?
 
 ## Read and connect
 

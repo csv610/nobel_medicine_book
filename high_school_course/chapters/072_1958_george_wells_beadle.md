@@ -1,8 +1,14 @@
 # George Wells Beadle: Nobel Medicine, 1958
 
-**Nobel Prize year:** 1958  
-**Laureate:** George Wells Beadle  
+**Nobel Prize year:** 1958
+**Laureate:** George Wells Beadle
 **Nobel-recognized contribution:** for their discovery that genes act by regulating definite chemical events
+
+**Subfield:** Genetics, Genomics, and Development
+
+> **Why this matters:** Almost every cell in your body carries the same DNA, yet cells can become bone, nerve, or muscle by reading different instructions.
+>
+> As your mentor, ask: Is this claim about DNA sequence, gene activity, cell fate, or inheritance? Keep those ideas separate.
 
 ## Read and connect
 
