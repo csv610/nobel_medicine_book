@@ -14,7 +14,7 @@ This book covers all 116 Nobel Prizes in Physiology or Medicine awarded between 
 
 ## High-school course
 
-The repository also includes a classroom-ready [high-school course](high_school_course/README.md) based on the Nobel-winning work in this book. It contains 10 interdisciplinary chapters, foundational materials, safety and ethics guidance, an assessment rubric, and a safe, doable project for every chapter.
+The repository also includes a classroom-ready [high-school course](high_school_course/README.md) based on the Nobel-winning work in this book. It contains 232 individual laureate chapters, foundational materials, safety and ethics guidance, an assessment rubric, and a safe, doable project for every chapter.
 
 ## Structure
 

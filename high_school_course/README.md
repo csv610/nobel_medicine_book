@@ -1,32 +1,35 @@
 # Nobel Medicine: A High-School Course
 
-This course uses discoveries recognized by the Nobel Prize in Physiology or Medicine to teach biology, scientific reasoning, data literacy, and responsible citizenship.
+This course lets students explore the work of every laureate documented in the book. It contains **232 individual chapters**, one for each Nobel Prize laureate, so students can choose topics that match their interests.
 
 ## Audience and format
 
 - **Audience:** students approximately 14–18 years old; no advanced biology required.
-- **Length:** 10 chapters, each suitable for one or two 45–60 minute lessons plus a project session.
-- **Method:** short reading, a foundation concept, evidence analysis, discussion, and a safe hands-on or computer-based project.
+- **Structure:** 232 short, selectable laureate chapters rather than a fixed sequence.
+- **Method:** read the laureate chapter in the main book, review the foundation material, complete the safe project, and reflect on evidence and ethics.
 - **Materials:** notebook, graph paper or spreadsheet, ruler, household objects, and optionally a phone camera or free spreadsheet software.
 
 The projects are designed for classrooms, clubs, or independent study. They do not require culturing microorganisms, human-subject experiments, animal work, medical treatment, or handling biological samples.
 
-## Course chapters
+## Start here
 
-1. [How medical knowledge is built](chapters/01_scientific_method.md)
-2. [Seeing cells and tissues](chapters/02_cells_microscopy.md)
-3. [Infection, immunity, and prevention](chapters/03_infection_immunity.md)
-4. [Signals, hormones, and homeostasis](chapters/04_homeostasis.md)
-5. [Food, oxygen, and cellular energy](chapters/05_cellular_energy.md)
-6. [Genes, development, and change](chapters/06_genes_development.md)
-7. [The brain, nerves, and behavior](chapters/07_nervous_system.md)
-8. [Viruses, vaccines, and immune recognition](chapters/08_viruses_vaccines.md)
-9. [From observation to treatment](chapters/09_treatments_evidence.md)
-10. [Human origins, ethics, and the future](chapters/10_origins_ethics.md)
+1. Read [foundations](foundations.md).
+2. Read [safety and ethics](safety_ethics.md).
+3. Use the [assessment guide](assessment.md) for any selected chapter.
+4. Browse the [232 laureate chapters](chapters/).
 
-## Suggested sequence
+Every laureate chapter includes the award year, the Nobel-recognized contribution, a link to the corresponding full book chapter, a safe project, a report requirement, reflection questions, and an official Nobel source.
 
-Begin with [foundations](foundations.md) and [safety and ethics](safety_ethics.md). Use one chapter per week, reserving the final session for student presentations. The [assessment guide](assessment.md) provides a common rubric.
+## Choosing a path
+
+Students may select chapters by person, year, topic, or project type. Teachers can assign a common theme while allowing each student to choose a laureate within that theme. Suggested themes include:
+
+- infection, immunity, and vaccines
+- cells, genes, and development
+- the brain, senses, and behavior
+- metabolism, hormones, and homeostasis
+- treatments, evidence, and public health
+- human origins, ethics, and society
 
 ## Source policy
 
