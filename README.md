@@ -53,7 +53,7 @@ The book includes:
 
 - A chronological overview table listing every year, laureate name(s), and key contribution
 - 116 individual chapters, each covering one Nobel Prize year
-- A back-of-book index (122 entries) for navigating by person, disease, and concept
+- A back-of-book index (918 entries) for navigating by person, disease, and concept
 - Nobel citation text for every award and laureate group
 
 ## Building
@@ -90,7 +90,8 @@ Remove the line or comment it out for a full build.
 ## Recent Work
 
 - Expanded early chapters (Finsen, Koch, Fibiger, Behring) with clinical details, historical context, and global impact
-- Added index entries across all chapters (122 entries total)
+- Added canonical index entries across all 116 chapters (918 entries total)
+- Expanded compressed chapters (Hill & Meyerhof, Eijkman & Hopkins, Warburg, Szent-Györgyi, Heymans, Domagk, Müller, Theiler) with experimental apparatus, clinical translations, and historical context
 - Removed boilerplate language from chapter prose
 - Fixed formatting issues (Unicode characters, double backslashes, bare `\item` outside itemize)
 
